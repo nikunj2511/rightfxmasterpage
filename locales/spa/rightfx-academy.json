@@ -1,0 +1,2692 @@
+{
+  "title": "Academia <span>de RightFX</span>",
+  "description": "La academia de trading de RightFX Trading es un programa de aprendizaje basado en módulos que te permite adquirir confianza y conocimientos para operar de manera independiente en los mercados financieros.",
+  "Markets": "Markets",
+  "CFD Trading": "trading con CFD",
+  "Forex": "Forex",
+  "Analysis": "Análisis",
+  "Risk": "Riesgo",
+  "Pyschology": "Psicología",
+  "Welcome to the online trading academy": "Bienvenido(a) a la academia de trading online",
+  "The Academy is a free resource": "La academia es un recurso gratis al que se puede acceder de manera individual o por grupos, y está diseñada a medida para traders principiantes y experimentados. Estudia nuestros seis módulos de trading para desarrollar confianza en el trading.",
+  "pageContent": [
+    {
+      "items": [
+        {
+          "rep_body": [
+            {
+              "text": "¿De modo que quieres ser un trader, pero no sabes en qué operar, cómo o donde?",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Este es el sitio perfecto para empezar.</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Al finalizar nuestra academia de trading, estarás mejor informado, más orientado y con más capacidad para comenzar a operar en serio.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Pongámonos manos a la obra; si deseas operar en los mercados financieros, tienes que comprender lo que son los mercados financieros.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Si sientes confusión o inseguridad no te preocupes: puede que ya sepas más de lo que crees. Los mercados financieros tienen muchos nombres: mercado de valores, mercados de capitales e incluso simplemente \"los mercados\".En términos simples, los mercados financieros son el \"ámbito\" donde compradores y vendedores pueden participar en las transacciones con activos.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Hay diferentes tipos de mercados, diferentes operadores, diferentes productos e incluso diferentes tipos de inversores.A fin de comprender a fondo los mercados, es importante conocer a todos los operadores involucrados.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Getting started"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "¿De modo que quieres ser un trader, pero no sabes en qué operar, cómo o donde?",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Este es el sitio perfecto para empezar.</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Al finalizar nuestra academia de trading, estarás mejor informado, más orientado y con más capacidad para comenzar a operar en serio.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Pongámonos manos a la obra; si deseas operar en los mercados financieros, tienes que comprender lo que son los mercados financieros.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Si sientes confusión o inseguridad no te preocupes: puede que ya sepas más de lo que crees. Los mercados financieros tienen muchos nombres: mercado de valores, mercados de capitales e incluso simplemente (los mercados).En términos simples, los mercados financieros son el \"ámbito\" donde compradores y vendedores pueden participar en las transacciones con activos.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Hay diferentes tipos de mercados, diferentes operadores, diferentes productos e incluso diferentes tipos de inversores.A fin de comprender a fondo los mercados, es importante conocer a todos los operadores involucrados.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Mercados financieros"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Ahora que tienes una comprensión básica de lo que son los mercados financieros, echemos un vistazo a las instituciones y corporaciones que los constituyen.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Veamos una lista de los principales operadores en los mercados;",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Bancos comerciales:</strong> – bancos minoristas y de inversión",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Brókers:</strong> – agentes intermediarios por vía electrónica o física",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Inversores institucionales: </strong> – entidades corporativas o inversoras, como fondos de pensiones o de inversión libre",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Bancos centrales:</strong> – como el BoE (Bank of England: Banco de Inglaterra)",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Participantes en el mercado"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Ahora, pasemos a lo que se negocia de hecho en los mercados financieros.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Esencialmente, hay dos métodos de trading diferentes:",
+              "type": "paragraph"
+            },
+            {
+              "text": "El primero es  <strong>el trading basado en mercados regulados.</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Las operaciones se llevan a cabo en un mercado centralizado y muy regulado.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Ejemplo:</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>NYSE</strong> - New York Stock Exchange <br /><strong>NYMEX-COMEX</strong> - (mercados de valores de NY) <br /><strong>CME</strong> - Chicago Mercantile Exchange <br /><strong>CBOT</strong> - Chicago Board of Trade <br /><strong>LSE</strong> - London Stock Exchange <br /><strong>LME</strong> - London Metal Exchange <br /><strong>IPE</strong> - International Petroleum Exchange",
+              "type": "paragraph"
+            },
+            {
+              "text": "El segundo  <strong>son los mercados extrabursátiles (Over the Counter, OTC).</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Un activo negociado fuera de un mercado regulado, normalmente entre bancos a través de una red de intermediarios.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Ejemplo</strong> Los mercados interbancarios, de derivados y de bonos.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Tipos de producto"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "¿Qué tipo de trader eres?Hay varios estilos diferentes de trading que en la mayoría de los casos clasifican a un trader en una de las dos categorías siguientes:",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Trader de coberturas: </strong> - una persona cuya principal motivación no es la búsqueda de beneficios, sino más bien reducir el riesgo de movimientos adversos en el precio de un activo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Especulador: </strong> - una persona que busca grandes beneficios a cambio de asumir grandes riesgos intentando anticipar movimientos del precio con la expectativa de lograr ganancias sustanciales en un tiempo relativamente breve.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Tipos de inversores"
+            }
+          ]
+        }
+      ],
+      "primary": {
+        "id": "markets",
+        "section_image": {
+          "url": "/Insights/academy-bg.png"
+        },
+        "section_title": [
+          {
+            "text": "1.Una introducción a los mercados"
+          }
+        ]
+      }
+    },
+    {
+      "items": [
+        {
+          "rep_body": [
+            {
+              "text": "Los CFD se negocian a menudo con lo que se denomina (apalancamiento) [no te preocupes, abordaremos este concepto un poco más adelante] para dar a los traders más potencia, flexibilidad y oportunidades en su operativa.Por el momento, vamos a simplificarlo con el siguiente ejemplo",
+              "type": "paragraph"
+            },
+            {
+              "text": "El acuerdo:",
+              "type": "h5",
+              "class": "my4"
+            },
+            {
+              "text": "La persona \"A\" piensa que el oro va a subir desde los 1.175$ por onza.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Person B believes Gold is going to fall from $1175 per oz",
+              "type": "paragraph"
+            },
+            {
+              "text": "La persona \"B\" piensa que el oro va a caer desde los 1.175$ por onza.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El resultado",
+              "type": "h5",
+              "class": "my4"
+            },
+            {
+              "text": "La persona A compra 1 onza de oro a 1.175$.",
+              "type": "paragraph"
+            },
+            {
+              "text": "La persona B vende 1 onza de oro a 1.175$.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Después de 3 días, el oro se cotiza a 1.1180$ y arroja un beneficio de 5$ sobre la onza de la persona A y una pérdida de 5$ para la persona B.",
+              "type": "paragraph"
+            },
+            {
+              "text": "La persona A cierra la posición a 1.180$ y gana 5$.",
+              "type": "paragraph"
+            },
+            {
+              "text": "La persona B cierra la posición a 1.180$ y pierde $5.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Este ejemplo hace que los CFD parezcan bastante simples, y esencialmente eso se debe a que lo son.Operar con CFD no es tan diferente a operar con acciones tradicionales:",
+              "type": "paragraph"
+            },
+            {
+              "text": "Si compras 500 acciones de una empresa a 5£, entonces tienes 2.500£ en acciones.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Si compras 500 acciones con un CFD a 5£ entonces también tienes 2.500£.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Si el precio de la acción sube un 10%, entonces has ganado 250£ en tu operación con acciones.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Si el precio de la acción sube un 10%, entonces has ganado 250£ en tu operación con CFD.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Ahora podrías pensar bien, si el valor es el mismo, el beneficio es el mismo, la pérdida es la misma, el riesgo es el mismo, entonces ¿por qué operar con CFD?",
+              "type": "paragraph"
+            },
+            {
+              "text": "Ventajas del trading mediante CFD",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Ejemplo de trading con CFD"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Los mercados financieros básicamente son un flujo internacional de dinero a la caza de dinero;.</p>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Hay 3 centros <strong>globales principales </strong> ubicados por todo el mundo, <strong>en Tokio, Londres y Nueva York</strong>.</p>",
+              "type": "paragraph"
+            },
+            {
+              "text": "E incluso hay más tipos de mercados: <strong>Markets</strong> los mercados Forex y monetarios, de valores, de materias primas, de renta fija, de ETF y los mercados emergentes.</p>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Estos diferentes productos se negocian en lo que se conoce como bolsas o mercados regulados <strong>Exchanges</strong>. Una de las bolsas más conocidas, por ejemplo, <strong>NYSE</strong>es el NYSE (New York Stock Exchange: mercado de valores de Nueva York)..</p>",
+              "type": "paragraph"
+            },
+            {
+              "text": "(Licencia nº GB19024778) <a target='_blank' rel='noreferrer' href='https: //www.fscmauritius.org/en/supervision/register-of-licensees/register-of-licensees-details?licence_no=GB19024778&key=&cat=GB&code='>GB19024778</a> )</p>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Ventajas del trading mediante CFD"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Ahora que tienes una comprensión básica de lo que son los mercados financieros, echemos un vistazo a las instituciones y corporaciones que los constituyen.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Veamos una lista de los principales operadores en los mercados:",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Bancos comerciales:</strong> – bancos minoristas y de inversión",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Brókers: </strong> – agentes intermediarios por vía electrónica o física",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Inversores institucionales: </strong> – entidades corporativas o inversoras, como fondos de pensiones o de inversión libre",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Bancos centrales:</strong> – como el BoE (Bank of England: Banco de Inglaterra)",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Las desventajas potenciales de operar con CFD"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Ahora, pasemos a lo que se negocia de hecho en los mercados financieros.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Esencialmente, hay dos métodos de trading diferentes;",
+              "type": "paragraph"
+            },
+            {
+              "text": "El primero es  <strong>el trading basado en mercados regulados.</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Las operaciones se llevan a cabo en un mercado centralizado y muy regulado.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Ejemplo:</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>NYSE</strong> - Exchange (mercados de valores de NY) <br /><strong>NYMEX-COMEX</strong> - New York Mercantile Exchange - Commodity Exchange <br /><strong>CME</strong> - Chicago Mercantile Exchange <br /><strong>CBOT</strong> - Chicago Board of Trade <br /><strong>LSE</strong> - London Stock Exchange <br /><strong>LME</strong> - London Metal Exchange <br /><strong>IPE</strong> - Mercado internacional de petróleo)",
+              "type": "paragraph"
+            },
+            {
+              "text": "El segundo <strong>son los mercados extrabursátiles (Over the Counter, OTC).</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Un activo negociado fuera de un mercado regulado, normalmente entre bancos a través de una red de intermediarios.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Ejemplo:</strong> Los mercados interbancarios, de derivados y de bonos.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Las 3 categorías principales de mercados"
+            }
+          ]
+        }
+      ],
+      "primary": {
+        "id": "cfd",
+        "section_title": [
+          {
+            "text": "2. What is CFD Trading"
+          }
+        ]
+      }
+    },
+    {
+      "items": [
+        {
+          "rep_body": [
+            {
+              "text": "FOREX es el mayor mercado financiero del mundo, tanto en términos de tamaño como de liquidez.Para darte una idea general de su tamaño, en promedio cada día se negocian en él 5 billones de USD.Ningún mercado de valores del mundo negocia un volumen tan enorme a diario.<",
+              "type": "paragraph"
+            },
+            {
+              "text": "La idea de FOREX es realmente simple: consiste en el intercambio de la divisa de un país y la divisa de otro país.En FX esencialmente compras una divisa y vendes la otra, y por tanto naturalmente FX se cotiza en pares como la libra y el dólar de EEUU [GBP/USD].Hay algunos \"pares FX\" que son más populares que otros, tales como: euro contra dólar de EEUU [EUR/USD], libra británica contra dólar de EEUU [GBP/USD], dólar de EEUU contra yen japonés [USD/JPY], o dólar de EEUU contra el franco suizo [USD/CHF].A estos cuatro populares pares de divisas se les llama a menudo mayores.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Prácticamente a cualquier hora del día, siempre hay un centro financiero que está abierto en algún lugar del mundo.El mercado FX está abierto 24 horas al día, y solamente cierra los fines de semana entre las 22:00 (GMT) y las 22:00 (GMT) del domingo.<",
+              "type": "paragraph"
+            },
+            {
+              "text": "El mercado de divisas no tiene una única ubicación, en el sentido de que no tiene una sede física establecida.Los mercados sin una \"plaza física\" se conocen como mercados OTC (Over-The-Counter, extrabursátiles) en los que todas las operaciones se procesan electrónicamente las 24 horas del día entre bancos de todo el mundo.A diferencia de otros mercados financieros Forex no tiene una \"plaza bursátil\" para realizar las transacciones, por lo que puedes operar en FX básicamente desde cualquier lugar del mundo y en cualquier momento, aunque hay algunas horas punta de actividad en cada región.A continuación hacemos una descripción general:<",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Forex"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Ya hemos mencionado que las divisas siempre se negocian en pares: esto se debe a que cuando compras una esencialmente vendes la otra, y viceversa.<br />So how do you read an FX quote?",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>P.ej. </strong>&nbsp;EUR/USD = 1.1200",
+              "type": "paragraph"
+            },
+            {
+              "text": "Esto significa que 1 € = 1,12 $",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>EUR;</strong>&nbsp;en esta cotización al EUR se le considera la \"divisa de base\".",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>USD;</strong>&nbsp;en esta cotización al USD se le considera la \"divisa cotizada\".",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>A una cotización como esta también se la conoce como una cotización indirecta, en la que el dólar de EEUU es la divisa de base.</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>P.ej. </strong>&nbsp;USD/JPY = 125.00",
+              "type": "paragraph"
+            },
+            {
+              "text": "Esto significa que 1 $ = 125 ¥",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>USD;</strong>&nbsp;en esta cotización, al USD se le considera la divisa de base.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>JPY;</strong>&nbsp;en esta cotización al JPY se le conoce como la divisa cotizada o de contrapartida.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>A una cotización como esta también se la conoce como una cotización indirecta, en la que el dólar de EEUU es la divisa de base.</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Cotizaciones en Forex"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Todas las cotizaciones de Forex tienen dos precios asociados: uno es el precio bid, y el otro es el precio ask.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>El precio bid: </strong>&nbsp;– si deseas VENDER la divisa de base, entonces harías clic en el precio bid.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El precio bid es el precio al que la otra parte está dispuesta a comprar la divisa de base que deseas vender a cambio de la divisa cotizada.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>El precio ask: </strong>&nbsp;– si deseas COMPRAR la divisa de base, entonces harías clic en el precio ask.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El precio ask es el precio al que la otra parte está dispuesta a venderte la divisa de base a cambio de la divisa cotizada.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El precio BID;<strong>BID</strong>&nbsp;siempre es más bajo que el precio ;<strong>ASK</strong>&nbsp;ASK y la diferencia entre los dos se conoce como el SPREAD.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El spread es la diferencia entre el precio de compra y el precio de venta de la divisa de base: esta diferencia se le carga al cliente y se le paga al creador de mercado.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "La oferta, la demanda y la difusión"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Abrir largos o abrir cortos simplemente es jerga de traders para referirse a comprar o vender.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Con tal de que recuerdes que&nbsp;<strong>LARGOS = COMPRAR </strong>&nbsp;y que&nbsp;<strong>CORTOS = VENDER</strong>&nbsp;ya casi lo tienes.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Lo siguiente es un poco más compicado...",
+              "type": "paragraph"
+            },
+            {
+              "text": "Cuándo abrir largos y cuándo abrir cortos en FX",
+              "type": "h5"
+            },
+            {
+              "text": "<strong>”Abrir largos”</strong>&nbsp;en términos de FX es comprar la divisa de base y vender la divisa cotizada.Es lo que harías si piensas que la divisa de base va a subir.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong><em>P.ej.  EUR/USD = 1.1200</em></strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Si pensaras que el EUR iba a subir \"abrirías largos\", lo que significa que comprarías EUR con la expectativa de poder venderlos por un precio más alto una vez que hayan subido.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>Abres largos en el  Euro @ 1.1200</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "El valor del euro sube;&nbsp;<strong>EUR/USD = 1.1400</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Tu euro vale ahora 1,14$ en lugar de 1,12$</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>”Abrir cortos”</strong>&nbsp;en términos de FX es vender la divisa de base y coprar la divisa cotizada.Es lo que haces si piensas que la divisa de base va a caer.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong><em>P.ej. EUR / USD = 1.1200</em></strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Si pensaras que el EUR iba a caer \"abrirías cortos\", lo que significa que venderías EUR con la expectativa de poder comprarlos a un precio más bajo una vez que haya caído.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Abres cortos en el euro a 1,1200",
+              "type": "paragraph"
+            },
+            {
+              "text": "El valor del euro cae:&nbsp;<strong>EUR/USD = 1.1000</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Tus euros valen ahora 1,10$ en lugar de 1,12$</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Posicionarse largo o corto"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Probablemente hayas oído estos términos un millón de veces: \"PIP\" y \"LOTE\" pueden sonar a poca cosa, pero en el mundo del trading son algo GRANDE.No comprenderás el trading hasta que comprendas estos términos.",
+              "type": "paragraph"
+            },
+            {
+              "text": "¿Qué es el pip?",
+              "type": "h5"
+            },
+            {
+              "text": "PIP son las siglas de \"percentage in point\" (punto porcentual), y es el incremento más pequeño posible en una cotización.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Ejemplo:</strong>: El GBP/USD se cotiza a 1,5696, y en este caso un PIP serian 0,0001.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El USD/JPY se cotiza a 123,45 y en este caso un PIP serían 0,01.",
+              "type": "paragraph"
+            },
+            {
+              "text": "De manera que un PIP esencialmente es el último lugar decimal de una cotización, y la mayoría de los pares de divisas tendrán un PIP equivalente a 0,0001, ya que normalmente se cotizan hasta el 4º lugar decimal.Este no siempre es el caso, no obstante, como podemos ver en el anterior ejemplo.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Estudia tus pip y tus lotes"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Entre los primeros conceptos que has de comprender como parte de tu entrenamiento en el trading en Forex están los lotes estándar y los microlotes: ¿qué son y cuál es la diferencia entre ellos?",
+              "type": "paragraph"
+            },
+            {
+              "text": "¿Qué es un lote en Forex?",
+              "type": "h5"
+            },
+            {
+              "text": "Un lote estándar en Forex equivale a 100.000 unidades de la divisa de base, por lo que en el caso del EUR/USD son 100.000 EUR.El tamaño medio del pip para un lote estándar que se cotiza hasta el 4º lugar decimal es de 10 unidades de la divisa de contrapartida, por lo que en este caso es de 10$.Si has perdido 10 pip en un contrato estándar en el EUR/USD, has perdido 100$.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Movimientos del pip (p.ej. EUR/USD a 1,28205):",
+              "type": "paragraph"
+            },
+            {
+              "text": "5º lugar decimal (movimiento de un micropip) = 100.000 (1 lote) x 0,00001 = 1,00$ P/L P&amp;L<br />4º lugar decimal (movimiento de 1 pip) = 100.000 (1 lote) x 0,00010 = 10,00$ P/L P&amp;L<br />3er lugar decimal (movimiento de 10 pip) = 100.000 (1 lote) x 0,00100 = 100,00$ P/L P&amp;L<br />2º lugar decimal (movimiento de 100 pip) = 100.000 (1 lote) x 0,01000 = 1.000,00$ P/L P&amp;L<br />1er lugar decimal (movimiento de 1000 pip) = 100.000 (1 lote) x 0,10000 = 10.000,00$ P/L P&amp;L",
+              "type": "paragraph"
+            },
+            {
+              "text": "Movimientos del pip (p.ej. USD/JPY a 76,850):",
+              "type": "paragraph"
+            },
+            {
+              "text": "3er lugar decimal (movimiento de un micropip) = 100.000 (1 lote) x 0,001 = 100Y<br />2º lugar decimal (movimiento de 1 pip) = 100.000 (1 lote) x 0,010 = 1.000Y<br />1er lugar decimal (movimiento de 10 pip) = 100.000 (1 lote) x 0,100 = 10.000Y",
+              "type": "paragraph"
+            },
+            {
+              "text": "Movimiento de una cifra grande = 100.000 (1 lote) x 1,000 = 100.000Y",
+              "type": "paragraph"
+            },
+            {
+              "text": "Veamos otro ejemplo con el USD/JPY.El tamaño estándar de un lote es de 100.000 USD, ya que el USD es la divisa de base.Como el USD/JPY se cotiza solamente hasta los 2 decimales, entonces un pip equivale a 1.000 JPY, por lo que si le vas ganando 10 pip a un contrato estándar en el USD/JPY, vas ganando 10.000 JPY.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los lotes estándar de Forex normalmente son para cuentas con un tamaño institucional: hablamos de grandes operadores, que deberían disponer de 25.000$ o más para operar usando lotes estándar.",
+              "type": "paragraph"
+            },
+            {
+              "text": "¿Qué es un lote en Forex?",
+              "type": "h5"
+            },
+            {
+              "text": "Seamos realistas: si estás contemplando empezar en el trading en Forex has de comenzar con poco e ir abriéndote paso hasta la cima.Los microlotes son buenos para los principiantes que necesitan familiarizarse con el trading en Forex.A diferencia de los lotes estándar en Forex, cuyo valor son 100.000 unidades de la divisa de base, el valor de un microlote es el equivalente a 1.000 unidades de la divisa de base con la que deseas operar.De manera similar, a diferencia de los lotes estándar [donde 1 pip = 10 unidades de la divisa de contrapartida en pares cotizados hasta el cuarto decimal y 1 pip = 1.000 unidades en pares cotizados hasta el segundo decimal] 1 pip en un microlote tiene un valor de tan solo 0,10 (4 decimales) o 10 (2 decimales) de la divisa de contrapartida.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "¿Cuánto es un lote?"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Ahora que conocemos lo que es un pip ya sabemos que es tan solo una cantidad diminuta, por lo que necesitas operar un MONTÓN [LOT] para que esos pequeños PIP realmente marquen la diferencia.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>'El apalancamiento te permite amplificar tu potencial de beneficios, a riesgo de grandes pérdidas, permitiéndote controlar una cantidad relativamente grande del activo por una fracción de su coste.'</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Ejemplo</strong>: Ejemplo:Un margen del 0,25% significa que operas con un apalancamiento de 400 veces; por ejemplo:;<br />Comprar 1 lote del GBP/USD a 1,2900 con un margen requerido del 0,25% te costará 322,5$..<br />El margen requerido significa que puedes operar en el mercado con un volumen de 100.000$..<br />A través del trading apalancado puedes sacar partido a movimientos muy pequeños en pip al poder operar con volúmenes grandes.No te preocupes si aún no comprendes totalmente el \"apalancamiento\", lo abordaremos en más detalle en algunos de los módulos posteriores, o si deseas ver cómo se calculan nuestros márgenes requeridos para FX haz clic aquí para ver nuestras preguntas frecuentes sobre margen y apalancamiento de la cuenta.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Apalancamiento y margen"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<strong>¡Muéstrame el dinero!</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "Ahora que comprendes lo que es un pip y lo que es un lote, has de comprender por qué valía la pena aprender más sobre ellos, para empezar.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Necesitamos los pip y lotes para calcular nuestros beneficios y pérdidas; de manera que aquí tienes los fundamentos básicos de tus P/L.",
+              "type": "paragraph"
+            },
+            {
+              "text": "¿Recuerdas que antes hablamos de cotizaciones DIRECTAS e INDIRECTAS en Forex?¡Bueno, aquí es donde puedes poner a trabajar tus nuevos conocimientos!",
+              "type": "paragraph"
+            },
+            {
+              "text": "Hay dos reglas para calcular tus beneficios y pérdidas en Forex, y todo tiene que ver con el dólar.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Siempre que tengas una cotización directa [donde la divisa cotizada sea el USD] puedes calcular tus beneficios y pérdidas usando la siguiente fórmula:",
+              "type": "h5"
+            },{
+              "text": "<strong><em>P/L = = (PRECIO DE VENTA - PRECIO DE COMPRA) x TAMAÑO DEL LOTE ESTÁNDAR x NÚMERO DE LOTES</em></strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Recuerda que el tamaño del lote estándar es de 100.000$, y para los minilotes el tamaño estándar será de 10.000$.<br /><strong>Ejemplo:</strong>: Compras 2 lotes del EUR/USD a 1,1205 y los vendes a 1.1210.P/L = (1,1210 – 1,1205) x 100.000 x 2 = 100$",
+              "type": "paragraph"
+            },
+            {
+              "text": "Siempre que tengas una cotización indirecta [donde la divisa cotizada NO SEA el USD] puedes calcular tus beneficios y pérdidas usando la siguiente fórmula:",
+              "type": "h5"
+            },
+            {
+              "text": "<strong><em>Ejemplo</em></strong>: Compras 2 lotes del USD/AUD a 1,2917 y los vendes a 1.2932.<br />P/L = (1.2932 – 1.2917) x 100,000 x 1 =&nbsp;<strong>150 AUD</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>CUIDADO</strong>: la cifra de beneficios que se indica ahí está en AUD, no en USDEs importante recordar que en las cotizaciones indirectas (donde el USD no es la divisa cotizada) tienes que convertir a USD la cifra de beneficios o pérdidas dividiendo por el tipo cambiario relevante.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Tienes 150 AUD;&nbsp;divides por el precio de venta &nbsp;[porque estás vendiendo AUD y comprando USD].<br />150 AUD/1.2932 = 115.99 USD",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Cálculo de tus beneficios y pérdidas en el mercado"
+            }
+          ]
+        }
+      ],
+      "primary": {
+        "id": "forex",
+        "section_image": {
+          "url": "/Insights/academy-bg.png"
+        },
+        "section_title": [
+          {
+            "text": "3. Qué es forex"
+          }
+        ]
+      }
+    },
+    {
+      "items": [
+        {
+          "rep_body": [
+            {
+              "text": "Tanto el análisis técnico como el fundamental son herramientas que utilizan los traders para determinar una estrategia de trading.Tanto el análisis fundamental como el técnico ayudan a los traders a predecir posibles tendencias y precios futuros.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Análisis técnico;</strong> “El proceso de analizar los precios históricos de un instrumento financiero y otras estadísticas generadas por la actividad del mercado, en un esfuerzo por determinar probables precios futuros”",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Análisis fundamental;</strong> “Se determina el precio en función de los resultados empresariales futuros: se centra predominantemente en factores tales como la situación general de la economía, los tipos de interés, la producción, los resultados empresariales y la gestión",
+              "type": "paragraph"
+            },
+            {
+              "text": "Esto es, en términos simples:",
+              "type": "paragraph"
+            },
+            {
+              "text": "El análisis técnico se fija en los precios pasados de un activo para predecir los precios futuros, y el análisis fundamental considera que los movimientos del mercado vienen determinados por factores macro y microeconómicos, incluyendo tipos de interés, guerra, inestabilidad política, recesión, depresión económica mundial, etc.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Esencialmente, el analista fundamental estudia las causas de los movimientos del mercado mientras que el técnico estudia su efecto.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Probablemente tienes un millón de preguntas en mente:",
+              "type": "paragraph"
+            },
+            {
+              "text": "“¿Cuál es mejor?”<br />“¿Cuál es la diferencia entre los dos?”<br />“¿Puedo usar ambos?”<br />“¿Cómo analizo?”<br />“W“¿Qué analizo?”",
+              "type": "paragraph"
+            },
+            {
+              "text": "Así que comencemos por el principio...",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Técnico frente a fundamental"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "El análisis fundamental es un método para evaluar un activo; intenta medir su valor intrínseco examinando las fuerzas subyacentes que podrían afectar al activo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El análisis fundamental incluye:",
+              "type": "paragraph"
+            },
+            {
+              "text": "Factores geopolíticos, tales como los tipos de interés y otras políticas gubernamentales<br />Factores macroeconómicos, tales como el nivel de empleo<br />Factores específicos de la empresa o el sector, como fusiones o adquisiciones",
+              "type": "paragraph"
+            },
+            {
+              "text": "¿Por qué es útil?",
+              "type": "h5"
+            },
+            {
+              "text": "¿Por qué está tan extendido el análisis fundamental, y qué nos permite lograr y comprender?",
+              "type": "paragraph"
+            },
+            {
+              "text": "A través del análisis fundamental podemos determinar la salud general de una economía para que nos defina un escenario a medio-largo plazo en cuanto a la dirección de los mercados",
+              "type": "paragraph"
+            },
+            {
+              "text": "El análisis fundamental nos ayuda a medir el valor intrínseco de un activo.La idea que hay detrás del análisis fundamental es que cada activo tiene un precio \"correcto\", lo que significa que podemos determinar si el precio actual del mercado está sobrevalorado o infravalorado.Teniendo en mente que el precio siempre regresará hacia lo que es \"correcto\", saber si un activo está sobre o infravalorado nos da una indicación con respecto a si comprar o vender.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Major Industrialized Nations Central Banks",
+              "type": "h5"
+            },
+            {
+              "text": "A continuación hay una lista de unas pocas naciones industrializadas, sus bancos centrales y sus presidentes o gobernadores:",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>EEUU: </strong> - La Reserva Federal [FOMC - Federal Open market Committee; comité federal del mercado obierto] - Presidente:Janet Yellen<br /><strong>Europa</strong> - Banco Central Europeo [BCE] - Presidente:Christine Lagarde<br /><strong>R. Unido </strong> - Banco de Inglaterra (Bank of England, BoE (MPC: Comité de política monetaria del BoE)] - Gobernador:Mark Carney]<br /><strong>Japón</strong> - Banco de Japón (Bank of Japan, BoJ) - Gobernador:Haruhiko Kuroda",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los bancos centrales toman decisiones que afectan a la economía, y las decisiones que afectan a la economía son decisiones que afectarán a tu operativa, por lo que si alguna vez ves a cualquiera de estas personas en TV, escucha atentamente lo que dicen porque es probable que sea algo bastante importante.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Aspectos básicos del análisis fundamental"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Cada vez que la presidenta del FOMC de la Fed, Janet Yellen, hace unas declaraciones públicas, todo el mundo juega a intentar adivinar qué va a ocurrir con los tipos de interés.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los tipos o tasas de interés pueden definirse como;",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>'El coste de pedir prestado dinero, expresado como un % del valor del préstamo'</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Comprender los tipos de interés es importante al hablar sobre factores tales como la oferta o masa monetaria, o sobre la inflación, dado que los bancos centrales usan la manipulación de tipos de interés para controlar la masa monetaria y combatir la inflación.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Podrías estar preguntándote qué importancia puede tener esto para ti; bueno, las variaciones en los tipos de interés provocan cambios en la economía, y estos a su vez afectan a tu operativa.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Ejemplo</strong>: Subir los tipos de interés. Esto hace que en la práctica tomar dinero en préstamo no resulte tan fácil, y en consecuencia las cantidades que gasta la gente se reducen.La reducción del gasto significa que la demanda de muchos bienes cae, y en consecuencia su precio también se reduce.El banco central normalmente subirá los tipos de interés cuando teme que la economía se haya \"recalentado\": hacen que pedir dinero en préstamo no sea tan fácil, a fin de reducir los gastos y enfriar la economía para evitar la inflación.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Ejemplo</strong>: Reducir los tipos de interés. Esto en la práctica nos permite tomar dinero en préstamo más fácilmente, y en consecuencia aumenta la cantidad que la gente gasta.El incremento del gasto significa que también hay un incremento en la demanda de muchos bienes, y al aumentar la demanda de estos también lo hará su precio.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El banco central rebajará los tipos de interés cuando considere que la economía se enfrenta a una posible recesión; se bajarán los tipos de interés para fomentar el gasto y el crecimiento de la economía.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Tipos de interés"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "El principal papel de cualquier banco central es el de controlar la cantidad de dinero (masa u oferta monetaria) de un país.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Al reducir los costes del endeudamiento, en la práctica los bancos centrales incrementan la masa monetaria.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>La masa monetaria es una medición de la cantidad total de billetes, notas, monedas, préstamos, créditos y otros instrumentos líquidos en circulación dentro de la economía de un país..</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "La masa monetaria se mide como M0, M1, M2 y M3, siendo M0 (efectivo y activos líquidos) la medición más restrictiva de la cantidad de dinero, y M3 la más amplia.",
+              "type": "paragraph"
+            },
+            {
+              "text": "La masa monetaria es un factor importante al que prestar atención, especialmente si deseas operar en FX.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Una mayor masa monetaria puede ser un indicador adelantado de inflación, si la oferta monetaria excede la oferta de bienes es probable que suban los precios y se manifieste la inflación.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Hace algún tiempo el gobierno solía establecer objetivos para la tasa de crecimiento de la masa monetaria, y a menudo manipulaba los tipos de interés para hacer que esa masa estuviera en línea con los límites deseados.De hecho, muchos argumentan que el exceso de manipulación de los tipos de interés en la década de los 80 [un período en el que el gobierno de los EEUU pensaba que la masa monetaria estaba creciendo fuera de control] fue la responsable de la recesión económica en aquella época.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Al parecer aprendieron la lección, y los gobiernos ya no fuerzan a que el crecimiento monetario caiga dentro de un determinado rango.Hoy en día los gobiernos simplemente \"tocan de oído\" a la espera del momento adecuado para hacer lo correcto a fin de mantener la estabilidad, controlar la inflación y fomentar un crecimiento sostenible.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Masa monetaria"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<strong>¿Qué es la inflación?</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "En este módulo hemos hablado un montón sobre inflación, y en caso de que aún no lo hayas captado, en términos simples la inflación es \"un aumento de los precios\".También puede describirse como un aumento sostenido en los precios de los bienes y servicios.",
+              "type": "paragraph"
+            },
+            {
+              "text": "¿Qué hace la inflación?",
+              "type": "h5"
+            },
+            {
+              "text": "La inflación provoca lo que llamamos una erosión en el poder adquisitivo de tu dinero.Esto es: que tu dinero pierde valor, que puedes comprar menos con tu dólar [o tu libra o tu euro], y eso se debe a la inflación.",
+              "type": "paragraph"
+            },
+            {
+              "text": "¿Qué causa la inflación?",
+              "type": "h5"
+            },
+            {
+              "text": "Hay dos causas principales de inflación:<br /><em>La demanda \"tira\" de la inflación: </em>; esta forma de inflación ocurre cuando la demanda agregada supera a la oferta agregada.Cuando hay más demanda que oferta, los precios suben = inflación.<br /><em>Inflación impulsada por los costes</em>;esta forma de inflación ocurre debido a un aumento en los precios de, por ejemplo, salarios o materias primas.Este incremento de costes hace que la oferta se reduzca, y en consecuencia la cantidad de demanda superará a la oferta.Nuevamente, cuando hay más demanda que oferta los precios suben = inflación.",
+              "type": "paragraph"
+            },
+            {
+              "text": ">¿Cuáles son los diferentes tipos de inflación?",
+              "type": "h5"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "<strong>Hiperinflación</strong>&nbsp;- subida de la inflación extremadamente rápida o fuera de control",
+                "<strong>Deflación</strong>&nbsp;- caída en los precios, lo opuesto a la inflación",
+                "<strong>Estanflación</strong>&nbsp;- crecimiento económico débil, acompañado de inflación creciente",
+                "<strong>DDesinflación</strong>&nbsp;- ralentizamiento de la tasa de inflación"
+              ]
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Inflación"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Periódicamente cada país del mundo publicará ciertos datos económicos.Una publicación de datos da a conocer de manera periódica datos y/o noticias económicas de naturaleza cualitativa o cuantitativa.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Estos datos o noticias que se comunican ayudan a hacerse una idea de la salud general de una empresa o de la economía de un país.Unas expectativas más sólidas para una empresa o economía nacional deberían reflejarse en un precio más alto de las acciones de la empresa, o una divisa más fuerte.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Estos datos o noticias pueden ejercer impactos tanto a corto como a largo plazo en los precios, y los traders tratarán de obtener beneficios de cualquier movimiento creado por estas publicaciones de datos económicos.Los inversores tomarán decisiones de inversión basadas en su interpretación de los datos económicos que hayan sido publicados.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Puntos clave de los datos económicos</strong></p><ul><li>La clave para operar con los datos es fijarse en el dato/noticia finalmente publicado en relación con las previsiones esperadas.</strong></li><li>Cuanto mayor sea la&nbsp;<strong>diferencia entre la cifra final y la cifra pronosticada</strong>, mayor es la probabilidad de una variación grande en los precios.</li><li>La importancia del dato también será un factor determinante de la fortaleza del movimiento en el precio.</li></ul><p>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Sigue a continuación un ejemplo de dato económico publicado:",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Nóminas no agrícolas (Non Farm Payrolls, NFP) de los EEUU (publicadas mensualmente) Mide el número de empleos que se crean o se destruyen cada mes, excluyendo al sector agrícola.</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Para el mes de julio podemos ver que...</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "La&nbsp;<strong>cifra </strong>&nbsp;prevista es de&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;= -65k<br />La&nbsp;<strong>prior</strong>&nbsp;cifra anteriores de &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; = -125k<br />La&nbsp;<strong>cifra</strong>&nbsp publicada es de is&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; = -131k<br />y finalmente la &nbsp;<strong>la cifra revisada e</strong>&nbsp;es d&nbsp; &nbsp; &nbsp; =&nbsp;<strong>-221k</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Aquí podemos ver que la cifra publicada es más de dos veces la cifra prevista, y como mencionamos antes cuanto mayor sea la diferencia, más probable será la fluctuación.",
+              "type": "paragraph"
+            },
+            {
+              "text": "En este caso, una tasa de desempleo más alta de lo esperado es una mala noticia, por lo que inicialmente hubo una ola de ventas en el dólar.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Publicación de datos económicos"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Ahora que hemos hablado de análisis fundamental, lo que significa y en qué consiste, echemos un vistazo más detenido al análisis técnico.",
+              "type": "paragraph"
+            },
+            {
+              "text": "¿Qué es el análisis técnico?",
+              "type": "h5"
+            },
+            {
+              "text": "A diferencia del análisis fundamental, que se ocupa del valor intrínseco de un activo y cuál debería ser su precio, el análisis técnico se centra más en el reconocimiento de patrones.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El análisis técnico es un arte subjetivo basado en usar movimientos pasados en el precio para predecir resultados futuros.En términos simples, ayuda a los inversores a pronosticar qué ocurrirá en el futuro estudiando qué ha ocurrido en el pasado.",
+              "type": "paragraph"
+            },
+            {
+              "text": "¿Por qué es útil el análisis técnico?",
+              "type": "h5"
+            },
+            {
+              "text": "Una idea errónea muy común es que el análisis técnico solamente consiste en montones de gráficos.El análisis técnico incluye un abundante número de técnicas que si se aplican de manera correcta pueden aumentar la probabilidad de que una operación gane dinero prediciendo la acción probable del precio.",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Niveles de soporte y resistencia + Puntos de pivote",
+                "Líneas de tendencia y canales + Puntos de ruptura",
+                "Patrones chartistas",
+                "Puntos de entrada y salida",
+                "Puntos estratégicos para stop-loss"
+              ]
+            },
+            {
+              "text": "El análisis técnico puede entenderse como otra manera de reducir tus riesgos.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "¿Qué es el análisis técnico?"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<p>Soportes y resistencias son conceptos que se usan en análisis técnico y que sugieren que el precio de mercado de un activo tenderá a caer o subir hasta ciertos niveles predeterminados.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El soporte</h5>",
+              "type": "h5"
+            },
+            {
+              "text": "<p>El nivel de soporte es el nivel al que el precio tiende a encontrar soporte cuando cae: es más probable que \"rebote\" desde este nivel en lugar de romperlo.En caso de que un precio llegue a romper de hecho un soporte, a menudo seguirá cayendo hasta que se identifique un nuevo nivel de soporte.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Resistencia</h5>",
+              "type": "h5"
+            },
+            {
+              "text": "<p>Una resistencia es lo contrario a un soporte: el nivel de resistencia es el nivel en el que el precio encuentra resistencia mientras sube, y nuevamente es más probable que el precio \"rebote\" desde este nivel en lugar de romperlo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>En el caso de que un precio llegue a romper de hecho una resistencia, a menudo seguirá subiendo hasta que encuentre otro nivel de resistencia.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>Este diagrama da un ejemplo de niveles de soporte y resistencia.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>La pauta \"zigzag\" que vemos aquí tiene una tendencia alcista y nos muestra cómo se determinan nuevos niveles de soporte y resistencia mientras el mercado se mueve.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>Cuando el mercado sube y luego retrocede, el punto más alto antes de caer se identifica como un nivel de resistencia en el precio.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>De manera similar, cuando el mercado vuelve a subir, el punto más bajo que se alcanza antes de que se inicie la subida es el nivel de soporte.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>Lo contrario se cumple en una tendencia bajista.",
+              "type": "paragraph"
+            },
+            {
+              "text": "¿Cómo encuentro apoyo y resistencia?</h5>",
+              "type": "h5"
+            },
+            {
+              "text": "<p>Ahora que tienes una idea general de lo que son los niveles de soporte y resistencia, es el momento de aprender cómo identificarlos.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>Lamentablemente, no es tan fácil como \"seguir los pasos A,, B, C\": los niveles de soporte y resistencia no son cifras exactas que puedan calcularse usando una fórmula o una regla.Puede que un nivel de soporte o resistencia parezca romperse, pero que poco después veamos que el mercado solamente estaba poniéndolo a prueba y que ese nivel aguanta.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>El hecho de que los niveles de soporte y resistencia se representen a menudo como líneas cuando no de hecho no son cifras exactas a veces resulta engañoso, por lo que a menudo es más sencillo pensar en soportes y resistencias como zonas o franjas, más que niveles exactos.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los dos tipos de soporte y resistencia.</h5>",
+              "type": "h5"
+            },
+            {
+              "text": "<p>TEsencialmente hay dos tipos de soporte o resistencia: mayores y menores.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>Un precio puede moverse al alza, por ejemplo, y romper una resistencia menor a fin de atacar la resistencia mayor, y como podemos ver a continuación a menudo un precio que se mueve contra la tendencia se verá detenido por una resistencia o soporte menor, y darse la vuelta.</p><p>Cuanto más a menudo ponga a prueba el precio los niveles de soporte y resistencia sin llegar a romperlos, más fuertes se considera que son esas zonas de soporte y resistencia.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Soporte y resistencia"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<h5><strong>Líneas de tendencia</strong></h5>",
+              "type": "h5"
+            },
+            {
+              "text": "“\"La tendencia es tu amiga\" es una frase que los traders usan a menudo, y la teoría que hay tras ella es muy simple: se considera fácil ganar dinero operando en la misma dirección que la tendencia.",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Una línea de tendencia alcista (máximos y mínimos crecientes) se representa como una línea trazada uniendo los mínimos de áreas de soporte fácilmente identificables.",
+                "Una línea de tendencia alcista (máximos y mínimos crecientes) se representa como una línea trazada uniendo los mínimos de áreas de soporte fácilmente identificables."
+              ]
+            },
+            {
+              "text": "<h5><strong>Canales</strong></h5>",
+              "type": "h5"
+            },
+            {
+              "text": "Los canales pueden entenderse que añaden una dimensión adicional a la teoría de la línea de tendencia que hemos mencionado previamente.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Un canal se crea simplemente trazando una línea paralela con el mismo ángulo que la línea de tendencia alcista o bajista.",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Para crear un canal alcista, trazas una línea paralela con el mismo ángulo que la línea de tendencia alcista, y luego la desplazas hasta una posición en la que toque el máximo más reciente.",
+                "Para crear un canal bajista, trazas una línea paralela con el mismo ángulo que la tendencia bajista, y luego la desplazas hasta una posición en la que toque el mínimo más reciente."
+              ]
+            },
+            {
+              "text": "[Esto habría que hacerlo al mismo tiempo que creas la línea de tendencia]",
+              "type": "paragraph"
+            },
+            {
+              "text": "Cuando los precios tocan la línea de tendencia inferior, esto puede servir como zona de compras.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Cuando los precios tocan la línea de tendencia superior, esto puede servir como zona de ventas.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Líneas de tendencia y canales"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Esencialmente, hay dos grandes grupos de indicadores técnicos: los adelantados y los retrasados.",
+              "type": "paragraph",
+              "spans": []
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Los indicadores adelantados cambiarán anticipándose a las tendencias económicas esperadas; con frecuencia se usan para predecir futuros movimientos, pero no necesariamente serán siempre precisos.",
+                "Los indicadores retrasados se usan para resumir movimientos pasados, en lugar de para predecir el futuro: cambian después de que la economía ya haya comenzado a seguir un patrón o tendencia en particular."
+              ]
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Indicadores"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<strong>Indicadores retrasados</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "Una media móvil ",
+              "type": "h5"
+            },
+            {
+              "text": "Una media móvil es un tipo de indicador técnico que usan los traders a fin de calcular el precio medio de un activo a lo largo del un período de tiempo determinado.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Hay dos tipos diferentes de medias móviles: la media móvil simple [Simple Moving Average, SMA] y la media móvil exponencial [Exponential Moving Average, EMA].",
+              "type": "paragraph"
+            },
+            {
+              "text": "Promedios móviles simples",
+              "type": "h5"
+            },
+            {
+              "text": "Una media móvil simple se calcula sumando los precios de cierre de los últimos \"X\" períodos, y luego dividiendo esa suma por X.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Para trazar una media móvil simple de 10 períodos en un gráfico de 1 hora, sumarías los precios de cierre de las últimas 10 horas, y luego dividirías esa cifra por 10.Y ya tendrías una media móvil simple.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Una media móvil simple nos muestra el sentimiento general del mercado en un punto del tiempo.Sirve de ayuda para mostrar la dirección del mercado filtrando el ruido (fluctuaciones del precio) en el tiempo, y también puede usarse para identificar niveles de soporte y resistencia, así como para generar señales de compra/venta.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Aquí podemos ver que cuanto más largo es el período de la SMA, más se retrasa tras el precio actual, esto es: cuanto mayor sea el período que uses, más lentamente reaccionará a un movimiento reciente en el precio.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Un problema que los traders experimentan a menudo con las SMA es que son muy susceptibles a los movimientos repentinos en el precio.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Medias móviles exponenciales (EMA)",
+              "type": "h4"
+            },
+            {
+              "text": "Las EMA asignan una mayor ponderación a los períodos más recientes, y reaccionan antes que las SMA a los precios más recientes.Cuanto más corto sea el período de la EMA, mayor será la ponderación que tendrá el precio actual en la curva de la media móvil, y lo contrario también es cierto.",
+              "type": "paragraph"
+            },
+            {
+              "text": "SMA o EMA",
+              "type": "h5"
+            },
+            {
+              "text": "Ahora que conoces la diferencia entre las medias móviles simples y exponenciales probablemente te preguntes cuándo usarlas, y más importante, cuál de ellas es mejor.",
+              "type": "paragraph"
+            },
+            {
+              "text": "La respuesta es \"ambas\"; puede sonar repetitivo, pero al igual que ocurre con la mayor parte de los métodos de análisis, en realidad depende de tu estilo de trading.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Revisemos los pros y contras tanto de las SMA como de las EMA para que te sirva de ayuda a la hora de determinar cuál de ellas va más en línea con tu estrategia de trading.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Las EMA responden más rápido a los movimientos en el precio, y te ayudan a atrapar tendencias recientes de manera más rápida y más precisa que las medias móviles simples.",
+              "type": "paragraph"
+            },
+            {
+              "text": "PERO",
+              "type": "paragraph"
+            },
+            {
+              "text": "Las EMA reaccionan TAN rápido a los movimientos del precio que con frecuencia un bandazo repentino puede interpretarse erróneamente como la fase inicial de una tendencia.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Las SMA son mejores si lo que buscas es una tendencia a más largo plazo y más general.Se aplican mejor a tendencias desarrolladas durante períodos más prolongados, y evitan los bandazos engañosos que pueden confundirte al usar EMA.PERO aunque sean ventajosas desde un punto de vista a largo plazo, la reacción lenta de las SMA genera una demora con respecto al precio que puede hacer más difícil aprovechar los movimientos a corto plazo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Ahora que hemos comparado las dos, en realidad depende de ti decidir cuál de ellas prefieres usar.Toma en consideración si estás intentando calibrar una tendencia a largo plazo, o si buscas sacar partido a un movimiento a corto plazo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Si alguna vez tienes dudas en cuanto a cuál utilizar, no hay problema en utilizar ambas: una SMA para hacerte una idea general de la tendencia general, y una EMA para sacar partido a los movimientos a corto plazo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Cómo utilizar las medias móviles",
+              "type": "h5"
+            },
+            {
+              "text": "Las medias móviles se usan para facilitar un gran número de estrategias de trading, tales como;",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Identificar tendencias y vueltas de tendencia",
+                "Medir la fortaleza del impulso en el mercado",
+                "Identificar niveles de soporte y resistencia",
+                "Detectar posibles puntos de entrada y salida"
+              ]
+            },
+            {
+              "text": "<strong>Identificando tendencias</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "Como ya hemos mencionado antes, las medias móviles son indicadores retrasados: no predicen nuevas tendencias, sino que las confirman una vez que ya han comenzado.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Las medias móviles se usan a menudo para identificar tendencias, según se muestra en el siguiente gráfico.Cuando el precio del producto es más alto que el de la media móvil, entonces se puede decir que lel precio está en tendencia alcista.Por ejemplo, muchos traders solamente se plantearán abrir largos cuando el precio se cotiza por encima de una media móvil.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Lo contrario también es cierto: en casos en los que hay una pendiente bajista y el gráfico muestra precios por debajo de la media móvil, los traders usarán esto como confirmación de una tendencia bajista.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Identificar los impulsos mediante medias móviles",
+              "type": "h4"
+            },
+            {
+              "text": "La fortaleza y dirección del impulso en un mercado también puede evaluarse usando medias móviles.",
+              "type": "paragraph"
+            },
+            {
+              "text": "En el siguiente gráfico se han aplicado tres medias móviles;",
+              "type": "paragraph"
+            },
+            {
+              "text": "Azul: EMA50 [corto plazo]",
+              "type": "paragraph"
+            },
+            {
+              "text": "Rosa: EMA100 [medio plazo]",
+              "type": "paragraph"
+            },
+            {
+              "text": "Naranja: EMA200 [largo plazo]",
+              "type": "paragraph"
+            },
+            {
+              "text": "Las tres medias móviles utilizadas aquí tienen distintas escalas temporales para intentar representar movimientos del precio a corto, medio y largo plazo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "En este gráfico puede verse un impulso alcista en momentos en los que las medias a más corto plazo están por encima de las medias a más largo plazo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Cuando las medias móviles a más corto plazo se ubican por debajo de las medias móviles a más largo plazo, el impulso tiene una dirección bajista.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Finding Support and Resistance with Moving Averages",
+              "type": "h5"
+            },
+            {
+              "text": "Las caídas en el precio de un mercado pueden detenerse y darse la vuelta en el mismo nivel por el que pasa una media móvil importante.Esto significa que a menudo las medias móviles pueden usarse para identificar niveles de soporte y resistencia en un gráfico.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Puede verse un ejemplo en el siguiente gráfico, cuando la media móvil de 200 días proporciona un nivel de soporte.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Las medias móviles que se basan en períodos más largos te darán una visión más sólida y fiable de un nivel de soporte que las medias móviles con plazos más cortos.",
+              "type": "paragraph"
+            },
+            {
+              "text": "En los casos en los que los precios caen por debajo de una media móvil importante, esta puede entonces actuar como nivel de resistencia que los traders usan a menudo como una señal para recoger beneficios o cerrar cualquier posición que tengan abierta.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los traders también usan estas medias como puntos de entrada para abrir cortos, porque el precio a menudo rebota en la resistencia y continúa moviéndose a la baja.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Encontrar cruces con promedios móviles",
+              "type": "h5"
+            },
+            {
+              "text": "<em>Las medias móviles pueden usarse para generar señales de compra y de venta identificando cuándo comienza una tendencia alcista o bajista.</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Como hemos señalado antes, las medias móviles pueden usarse para definir tendencias alcistas y bajistas.Las medias móviles también pueden, por consiguiente, usarse como una señal de compra o de venta.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Una perforación alcista de una media móvil puede servir como señal para abrir largos o para cerrar una posición corta.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Una perforación bajista de una media móvil puede servir como señal para abrir cortos o cerrar una posición larga.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El tipo más común de ruptura o perforación es cuando el precio se mueve desde un lado de la media móvil hasta el otro lado: esto puede observarse en el siguiente gráfico.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Azul: EMA20 [corto plazo]",
+              "type": "paragraph"
+            },
+            {
+              "text": "Rosa: EMA100 [largo plazo]",
+              "type": "paragraph"
+            },
+            {
+              "text": "Cuando una media móvil a corto plazo cruza una media a largo plazo, ello puede significar que el impulso está cambiando en esa dirección y que se aproxima un fuerte movimiento.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Una señal de compra se da cuando una media móvil a corto plazo cruza al alza una media móvil a largo plazo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Una señal de venta es cuando una media móvil a corto plazo cruza a la baja una media móvil a largo plazo.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Indicadores adelantados"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Como ya hemos apuntado antes, los indicadores adelantados cambiarán anticipándose a las tendencias económicas esperadas; con frecuencia se usan para predecir futuros movimientos, pero no necesariamente serán siempre precisos.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Ahora que ya hemos revisado las medias móviles, un ejemplo de indicador retrasado, pasemos a ver el índice de fuerza relativa (Relative Strength Index, RSI), que es un tipo de indicador adelantado.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El índice de fuerza relativa [RSI]",
+              "type": "h5"
+            },
+            {
+              "text": "El índice de fuerza relativa [RSI] determina la velocidad y las variaciones en los movimientos del precio; permite a los traders medir el impulso comprador o vendedor en un activo.El RSI oscila entre 0 y 100, y en general se considera que un mercado está sobrecomprado una vez que el RSI se aproxima un valor de 70.Esta es una buena indicación de que el activo podría empezar a estar sobrevalorado, y que es un buen candidato a experimentar una corrección.",
+              "type": "paragraph"
+            },
+            {
+              "text": "A la inversa, cuando el RSI se acerca a 30 eso es una indicación de que el mercado puede estar sobrevendido, y que por consiguiente es probable que llegue el activo a estar infravalorado.",
+              "type": "paragraph"
+            },
+            {
+              "text": "¿Qué significa sobrecompra?",
+              "type": "h5"
+            },
+            {
+              "text": "En el análisis técnico, la sobrecompra es una situación en la que el precio de un mercado ha subido -normalmente con mucho volumen- hasta tal punto que un oscilador, como por ejemplo el RSI, ha alcanzado su límite superior.",
+              "type": "paragraph"
+            },
+            {
+              "text": "En términos más simples, se da cuando la demanda de un activo presiona el precio de su mercado al alza hasta niveles injustificables.",
+              "type": "paragraph"
+            },
+            {
+              "text": "En general, cuando un activo está en situación de sobrecompra eso es una indicación de que el mercado lo está sobrevalorando, y podría experimentar una corrección.",
+              "type": "paragraph"
+            },
+            {
+              "text": "¿Qué significa Sobreventa?",
+              "type": "h5"
+            },
+            {
+              "text": "La sobreventa simplemente es lo contrario de la cobrecompra.",
+              "type": "paragraph"
+            },
+            {
+              "text": "La sobreventa es una situación en la que el precio de un mercado ha bajado con demasiada fuerza y demasiado rápido en relación con los factores fundamentales subyacentes.Esta situación normalmente es el resultado de una reacción excesiva del mercado, o un pánico vendedor.",
+              "type": "paragraph"
+            },
+            {
+              "text": "La sobreventa generalmente se interpreta como una señal de que el precio del activo se está infravalorando y puede representar una oportunidad de compra para los inversores.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Confiamos que ahora comprendas mejor lo que significa decir que un activo está sobrecomprado o sobrevendido, pero recuerda que determinar el grado en que lo está es un juicio muy subjetivo y que puede variar entre distintos traders.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El oscilador estocástico",
+              "type": "h5"
+            },
+            {
+              "text": "El oscilador estocástico es otro ejemplo de un indicador adelantado: es un indicador de impulso que mide la velocidad de una variación o el impulso en el precio.Hace esto comparando el precio de cierre de un activo contra su rango de precios a lo largo de un período de tiempo determinado.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Como en el caso del RSI, los osciladores estocásticos también tienen niveles que indican tendencias potenciales o puntos de entrada y de salida.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los traders a menudo se plantearán vender cuando la línea del oscilador estocástico suba por encima de 80, anticipando que luego inevitablemente volverá a caer por debajo.Los traders también se plantearán comprar cuando el estocástico caiga por debajo de 20, anticipando que volverá a subir por encima de este nivel.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Otra manera de utilizar osciladores estocásticos consiste en vigilar el momento oportuno (timing) para las operaciones.El siguiente gráfico es un ejemplo de esto:",
+              "type": "paragraph"
+            },
+            {
+              "text": "%K = %D negra = %K roja = (cierre actual - mínimo)/ (máximo - mínimo) * 100 %D = SMA de %K para 3 días",
+              "type": "paragraph"
+            },
+            {
+              "text": "A %K se la considera la más rápida de las dos líneas, y compara el último precio al cierre con el rango de trading más reciente.%D es una línea de señal calculada suavizando %K; es una media móvil simple de %K, que se dibuja junto con %K para que actúe como línea de señal o de disparo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los traders se plantearán vender cuando la línea %K (rápida) pase por debajo de la línea %D (lenta), y se plantearán comprar cuando la línea %K pase por encima de la línea %D.",
+              "type": "paragraph"
+            },
+            {
+              "text": "La teoría tras este indicador es que en un mercado en tendencia alcista los precios tienden a cerrar cerca de su máximo, y durante un mercado en tendencia bajista los precios tienden a cerrar cerca de su mínimo.Las señales para realizar una transacción ocurren cuando %K cruza una media móvil de tres períodos llamada %D.",
+              "type": "paragraph"
+            },
+            {
+              "text": "La sensibilidad del oscilador puede ajustarse cambiando el período temporal de las líneas %D o %K.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Indicadores adelantados"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "La banda de Bollinger es una herramienta analítica utilizada por los traders para identificar la volatilidad de un mercado, y estudia los niveles actuales del precio en relación a niveles previos.",
+              "type": "paragraph"
+            },
+            {
+              "text": "En el gráfico anterior podemos ver que cuando hay poca volatilidad las bandas se contraen, y cuando el mercado se hace cada vez más volátil las bandas se expanden.",
+              "type": "paragraph"
+            },
+            {
+              "text": "",
+              "type": "paragraph"
+            },
+            {
+              "text": "Puede resultar más sencillo entender las bandas de Bollinger como una forma de soporte y resistencia.",
+              "type": "paragraph"
+            },
+            {
+              "text": "",
+              "type": "paragraph"
+            },
+            {
+              "text": "A menudo, lo que se ve con las bandas de Bollinger es que cuando el precio se desvía de una banda, a menudo tiende a regresar de nuevo a la zona intermedia; esto es lo que se conoce como un rebote de Bollinger.",
+              "type": "paragraph"
+            },
+            {
+              "text": "A menudo puede verse que las bandas se \"comprimen\" (squeeze) muy juntas, como en el gráfico siguiente:",
+              "type": "paragraph"
+            },
+            {
+              "text": "Muchos traders consideran que una \"compresión\" de las bandas es una indicación de que habrá una ruptura inminente en el mercado.Si se ve que el gráfico se mueve hacia la banda superior, entonces normalmente se espera una tendencia alcista.Lo contrario se cumple cuando las velas japonesas se aproximan a la banda inferior.",
+              "type": "paragraph"
+            },
+            {
+              "text": "A continuación puede verse un ejemplo de ruptura:",
+              "type": "paragraph"
+            },
+            {
+              "text": "Una compresión de las bandas Bollinger no es algo que pueda verse con mucha frecuencia: si se sigue un gráfico de 15 minutos, ocurrirá solamente un par de veces a la semana.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Bandas de Bollinger"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "La secuencia de Fibonacci se usa ampliamente en muchos sectores de actividad diferentes en todo el mundo, por lo que puede que sea la herramienta de análisis técnico que te resulte más familiar de todas las que hemos abordado hasta ahora.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Leonard Fibonacci fue un matemático italiano (en torno al año 1.200) que descubrió una secuencia simple de números (números de Fibonacci) que se usan hoy como una popular herramienta de análisis técnico llamada retrocesos de Fibonacci.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los números de Fibonacci son los siguientes: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 y así sucesivamente.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Más importante que la secuencia en sí misma son las relaciones matemáticas entre esos números.Lo que tiene interés para nosotros es el cociente entre dos números adyacentes cualesquiera en esa secuencia: cada término de la misma es la suma de los dos términos precedentes.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los retrocesos de Fibonacci funcionan tomando dos puntos extremos de un gráfico y dividiendo la distancia vertical entre esos dos puntos por lo que se conoce como las ratios de Fibonacci.Estas ratios son: 23,6%, 38,2%, 50%, 61,8% and 100%, y el cociente de los números adyacentes en la secuencia.Una vez que se han realizado estos cálculos y se han definido esos puntos, se dibujan en el gráfico usando líneas horizontales.Estas líneas las interpretan muchos traders como niveles de soporte y resistencia, y también se usan para que ayuden a identificar puntos estratégicos para colocar órdenes y para seleccionar objetivos para el precio o para stop-loss.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Secuencia de Fibonacci"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "El análisis técnico, como ya hemos dicho, no consiste solamente en gráficos.Sin embargo, sí que se basa mucho en ellos, y a menudo hace uso de patrones chartistas como ayuda para tomar decisiones de trading.",
+              "type": "paragraph"
+            },
+            {
+              "text": "La teoría subyacente es que los traders a menudo esperan que se repitan patrones gráficos, y esta predicción es la que les ofrece diversas oportunidades de trading.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los patrones chartistas más comunes son:",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Triángulos simétricos",
+                "Triángulos ascendentes",
+                "Triángulos descendentes",
+                "Doble techo",
+                "Doble suelo",
+                "Cabeza y hombros",
+                "Cabeza y hombros invertido"
+              ]
+            },
+            {
+              "text": "<strong>Patrones de gráficos: triángulos</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "Los triángulos representan patrones de continuación, y hay tres tipos principales:",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Triángulos simétricos -</strong>&nbsp;un patrón neutral que señala una ruptura en cualquier dirección, aunque normalmente son una pauta de continuación.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Entonces, ¿cómo identificas un triángulo simétrico?",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los triángulos simétricos presentan señales distintivas, que pueden verse en la siguiente imagen.",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Línea de tendencia superior con pendiente bajista",
+                "Línea de tendencia inferior con pendiente alcista",
+                "Ambas líneas de tendencia convergen una hacia la otra",
+                "La ruptura alcista o bajista es una confirmación de la tendencia en esa dirección"
+              ]
+            },
+            {
+              "text": "La pendiente de los máximos del precio y la pendiente de los mínimos del precio convergen hasta un punto en el que presentan el aspecto de un triángulo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "En el siguiente ejemplo de un triángulo, el mercado traza máximos y mínimos decrecientes.A este tipo de actividad del precio se la llama consolidación.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los traders que usan triángulos simétricos con frecuencia buscan una ruptura: por ejemplo, cuando el patrón alcanza una fase en la que el precio se mueve decisivamente en una dirección o en la otra.De manera muy parecida a lo que explicamos sobre la \"compresión\" Bollinger, una ruptura ocurre con frecuencia tras una consolidación como la que vemos a continuación: los traders aguardan a que el precio se mueva, o bien por encima de la línea de tendencia, o bien por debajo de la misma.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Triángulos ascendentes-</strong>&nbsp;pauta de continuación alcista",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los triángulos ascendentes también presentan un patrón característico por el que los puedes identificar.",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Línea de tendencia superior horizontal/plana",
+                "Línea de tendencia inferior con pendiente alcista",
+                "Ambas líneas de tendencia convergen una hacia la otra",
+                "Ruptura alcista que perfora la resistencia"
+              ]
+            },
+            {
+              "text": "Los triángulos ascendentes se observan en casos en los que hay un nivel de resistencia junto con una pendiente formada por mínimos crecientes, como se ve a continuación:",
+              "type": "paragraph"
+            },
+            {
+              "text": "Nuevamente, los traders a menudo esperarán a ver si el precio finalmente perfora el nivel de resistencia, momento en el que el precio podría romper decisivamente al alza como vemos a continuación.",
+              "type": "paragraph"
+            },
+            {
+              "text": "La alternativa ocurre cuando el nivel de resistencia resulta ser demasiado fuerte para una ruptura alcista y el movimiento del precio se da la vuelta a la baja.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Triángulos descendentes –</strong>&nbsp;patrón de continuación bajista",
+              "type": "paragraph"
+            },
+            {
+              "text": "Finalmente, hay triángulos descendentes: los triángulos descendentes esencialmente son lo contrario a los triángulos ascendentes.",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Línea de tendencia superior con pendiente bajista",
+                "Línea de tendencia inferior horizontal/plana",
+                "Ambas líneas de tendencia convergen una hacia la otra",
+                "Ruptura bajista que perfora el soporte inferior"
+              ]
+            },
+            {
+              "text": "En la imagen previa podemos ver una serie de máximos decrecientes, que forma la línea superior.La línea inferior es un nivel de soporte que el precio parece ser incapaz de perforar a la baja.",
+              "type": "paragraph"
+            },
+            {
+              "text": "A diferencia de los triángulos ascendentes, donde la expectativa de los traders es una ruptura alcista, la expectativa de los traders que vigilan un triángulo descendente es un mercado bajista, y esperan a ver si el precio eventualmente confirma una ruptura bajista a través del nivel de soporte.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El escenario alternativo ocurrirá cuando el nivel de soporte resulte ser demasiado sólido para perforarlo a la baja: en ese caso se observará \"rebotar\" al precio desde el soporte y normalmente iniciará un movimiento alcista.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Tapas dobles - Patrón de inversión",
+              "type": "h5"
+            },
+            {
+              "text": "Un doble techo  a&nbsp;<strong>es un patrón de vuelta de tendencia </strong>&nbsp;que se forma después de que haya un prolongado movimiento alcista",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los \"techos\", como se puede ver en la imagen previa, son máximos que se forman cuando el precio toca un nivel de resistencia que parece incapaz de rebasar.",
+              "type": "paragraph"
+            },
+            {
+              "text": "En el anterior gráfico podemos ver que, tras haber rebotado ligeramente desde la resistencia, el precio regresa para ponerla de nuevo a prueba.Si el precio no consigue perforar el nivel de resistencia en esa segunda ocasión y se observa que vuelve a rebotar desde ahí, entonces se forma un patrón chartista de DOBLE techo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Volviendo de nuevo al gráfico previo, podemos ver que el segundo \"techo\" no consiguió subir por encima del máximo del primero.Los traders a menudo interpretan esto como una fuerte señal de que va a ocurrir una vuelta de tendencia, ya que este movimiento implica que la presión compradora está perdiendo fuerza..",
+              "type": "paragraph"
+            },
+            {
+              "text": "Cuando se usan dobles techos en un análisis, los traders a menudo se plantean abrir cortos por debajo del nivel al que se llama \"línea clavicular\".Cuando el nivel del precio cae por debajo de la línea clavicular los traders tienen la expectativa de que la tendencia alcista se va a dar la vuelta.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Doble fondo - Patrón de inversión",
+              "type": "h5"
+            },
+            {
+              "text": "Un doble suelo es lo contrario a un doble techo.Es una  a&nbsp;<strong>figura de vuelta de tendencia alcista</strong>&nbsp;lo que significa que, a diferencia de lo que ocurre con los dobles techos, los traders se plantean ahora que los precios se girarán al alza tras haber estado bajando.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Cabeza y hombros",
+              "type": "h5"
+            },
+            {
+              "text": "El patrón de cabeza y hombros es otra figura de vuelta de tendencia que tiene dos tipos principales:;",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Cabeza y hombros: figura que indica una vuelta de tendencia desde una tendencia alcista a una bajista</li>",
+                "Cabeza y hombros invertido: figura que señala una vuelta de tendencia desde una tendencia bajista a una alcista </li>"
+              ]
+            },
+            {
+              "text": "<strong>Cabeza y hombros</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "La figura de cabeza y hombros se forma con un máximo, conocido como \"hombro\", que va seguido de otro máximo más alto, la \"cabeza\".Tras este máximo [la cabeza] se forma otro hombro con un máximo que queda más abajo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Finalmente, podemos ver que hay una línea clavicular trazada conectando los puntos más bajos de los dos mínimos.Aunque en este caso la línea de tendencia sea una línea horizontal, también puede tener una pendiente alcista o bajista.",
+              "type": "paragraph"
+            },
+            {
+              "text": "De manera muy parecida a lo que ocurre con las figuras de doble suelo y doble techo, los traders que usan la figura de cabeza y hombros también se plantearán vender una vez que el precio caiga justo por debajo de la línea clavicular, ya que se considera que esto implica una inminente tendencia bajista.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Cabeza y hombros invertida</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Una figura de cabeza y hombros invertida básicamente se explica sola: es una figura de cabeza y hombros, pero al revés..",
+              "type": "paragraph"
+            },
+            {
+              "text": "Una figura de cabeza y hombros invertida es un patrón de vuelta de tendencia alcista, y por tanto los traders se plantearán comprar cuando el precio suba por encima de la línea de tendencia, ya que su expectativa es que la ruptura vaya seguida de una tendencia alcista.",
+              "type": "paragraph"
+            },
+            {
+              "text": "https://www.google.com/search?q=traslate&oq=tr&aqs=chrome.0.69i59j69i57j69i59l2j0i271l2j69i61l2.649j0j7&sourceid=chrome&ie=UTF-8#:~:text=Formaciones%20de%20velas%20japonesas",
+              "type": "h5"
+            },
+            {
+              "text": "<strong>Patrones básicos de velas - Trompos</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Un tope en peonzas es una de las pautas de velas que se ven con más frecuencia.Este tipo de pauta se considera a menudo como neutral, e indica indecisión entre compradores y vendedores con respecto a los futuros movimientos de un activo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "En el anterior gráfico, el cuerpo de una peonza es pequeño pese a que es posible que haya una cantidad sustancial de fluctuación durante la jornada.También puede ser de color verde o rojo, indicando un sentimiento alcista o bajista.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los traders usan la presencia de un tope en peonzas para predecir si hay una inminente tendencia alcista o bajista.Por ejemplo, si tras una tendencia alcista prolongada se forma un tope en peonzas, esto generalmente significa que los compradores han comenzado a perder interés, y eso es indicativo de una tendencia bajista inminente.También se cumple lo contrario.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Pautas básicas en velas japonesas: peonzas</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "A primera vista la pauta marubozu es muy similar a la figura de tope en peonzas que acabamos de describir.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Las principales diferencias entre las dos es que las velas marubozu son de mayor tamaño, y al contrario que las peonzas no tienen sombras.Igualmente hay dos colores, verde y rojo, que indican si el mercado está alcista o bajista.",
+              "type": "paragraph"
+            },
+            {
+              "text": "En un mercado alcista podemos ver por ejemplo que el precio de apertura está cerca del mínimo y que el precio máximo está cerca del precio de cierre.La pauta marubozu verde a menudo se ve como la primera parte de una continuación alcista o de una vuelta de tendencia alcista, y muchos traders comprarán en un mercado en el que ven un marubozu alcista.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Lo contrario aquí es el marubozu bajista, de color rojo.En este caso el precio mínimo está cerca del precio de cierre, y el precio de apertura está cerca del máximo.Un marubozu bajista implica una vuelta de tendencia bajista o una continuación bajista, y por eso muchos traders usan el marubozu rojo como indicación para vender en el mercado.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Pautas básicas de velas japonesas</strong><br /> Doji Las velas doji se dice que son \"neutrales\", ya que no indican una tendencia alcista o bajista definida, y por eso son una señal de indecisión entre los traders.",
+              "type": "paragraph"
+            },
+            {
+              "text": "En cierto modo las velas doji son similares a las velas de tope en peonzas, ya que tienen cuerpos muy pequeños: en el caso de las velas doji el cuerpo simplemente es una línea, como se ve a continuación.De manera también similar a las peonzas, en las pautas doji pueden observarse sombras largas.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Hay cuatro tipos principales de velas doji:s",
+              "type": "paragraph"
+            },
+            {
+              "text": "Primero, echemos un vistazo al Doji con piernas largas: aquí podemos ver que los precios de apertura y cierre eran esencialmente iguales.Este doji de piernas largas implica que casi hay un equilibrio entre oferta y demanda, y que se puede estar aproximando un punto de giro en la dirección de los precios.",
+              "type": "paragraph"
+            },
+            {
+              "text": "A continuación está el doji libélula: similar al doji de piernas largas, también se forma cuando los precios de apertura y cierre de un activo son iguales.La larga sombra inferior, no obstante, significa que este equilibrio se estableció cerca del máximo del día.De nuevo, implica que la dirección de la tendencia se acerca a un coyuntura importante, y la larga sombra inferior implica una posible vuelta de tendencia en una tendencia bajista.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Un doji lápida esencialmente es lo contrario al doji libélula que acabamos de explicar.Se forma cuando los precios de apertura y de cierre son iguales, y ocurren al finalizar el día.La larga sombra superior implica que la presión compradora se vio contrarrestada por los vendedores, y que la tendencia alcista está a punto de darse la vuelta.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Finalmente, un doji es una vela en la que los precios máximo, mínimo, de apertura y de cierre fueron iguales.Esta es la más neutral de todas las figuras de velas, y no ocurre a menudo.Se ve sobre todo cuando hay un volumen de negociación muy bajo, como en el mercado \"fuera de horas\", y los traders la ignoran a menudo considerándola el resultado de un error en los datos.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Aunque las velas doji son importantes, en lo que más se fijan los traders es en su combinación con pautas precedentes.Por ejemplo, si aparece una vela doji tras una serie de velas con cuerpos verdes largos, eso es una indicación de que la presión compradora se está debilitando.A la inversa, si se ve una vela doji tras una serie de velas rojas, esto es una indicación de que la presión vendedora se está debilitando.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Pautas básicas en velas japonesas: martillo y hombre ahorcado</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "El martillo y el hombre ahorcado parecen muy similares, con cuerpos cortos y largas sombras inferiores, pero tienen interpretaciones muy diferentes.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El martillo, que puede verse arriba a la izquierda en verde, es una pauta de vuelta de tendencia alcista que se forma durante una tendencia bajista.Cuando los precios están cayendo, los martillos señalan que han llegado hasta un nivel de soporte y que los precios puede que vuelvan a subir.Los traders a menudo interpretan un martillo como una indicación de una inminente subida en los precios, pero siempre es más seguro aguardar un rato y confirmar una tendencia alcista antes de comprar.",
+              "type": "paragraph"
+            },
+            {
+              "text": "El hombre ahorcado, que puede verse arriba en rojo, es lo contrario a un martillo.Es una pauta de vuelta de tendencia bajista que a menudo marca un techo o una fuerte resistencia.Cuando el precio sube, los traders interpretan a menudo que la figura del hombre ahorcado es una indicación de que la presión vendedora es mayor que la presión compradora alcista.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Pautas básicas en velas japonesas:Martillo invertido y estrella fugaz</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "El martillo invertido ocurre cuando los precios que caen señalan la posibilidad de una vuelta de tendencia.Su larga sombra superior, como se puede ver a continuación, nos muestra que los compradores están intentando contrarrestar la presión bajista y que han conseguido cerrar la sesión cerca de su apertura en lugar de permitir que el precio se viera más presionado a la baja.",
+              "type": "paragraph"
+            },
+            {
+              "text": "La estrella fugaz es una pauta de vuelta de tendencia bajista que parece idéntica al martillo invertido, pero ocurre cuando los precios han estado subiendo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Su forma indica que el precio abrió en su mínimo y remontó, pero luego retrocedió hasta el suelo.Al contrario de lo que ocurría con el martillo invertido, la estrella fugaz nos muestra que los vendedores contrarrestaron la presión alcista de los compradores y consiguieron mantener el cierre de la jornada casi igual a su apertura y evitar más presión alcista adicional.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Patrones de gráficos"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Finalmente hemos acabado de analizar: y ahora que conoces las bases tanto del análisis técnico como del fundamental, está en tu mano poner a trabajar tus nuevos conocimientos.Depende de tu estilo de trading, tus objetivos, tu escala temporal y muchos otros factores.No te encasilles restringiéndote a un solo estilo, la diversidad es valiosa. Puedes usar algunos o todos estos métodos diferentes, ya que se complementan entre sí.Muchos inversores usan análisis técnico y gráficos para decidir puntos estratégicos de entrada y salida, pero usan el análisis fundamental para decidir en qué activos operar.Hay combinaciones y oportunidades ilimitadas: ¡buena suerte con tu trading!",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Conclusión"
+            }
+          ]
+        }
+      ],
+      "primary": {
+        "id": "analysis",
+        "section_title": [
+          {
+            "text": "4. Análisis"
+          }
+        ]
+      }
+    },
+    {
+      "items": [
+        {
+          "rep_body": [
+            {
+              "text": "El riesgo, en cualquier situación &nbsp;<strong>Uncertainty</strong><br /><em>', es la incertidumbre, la posibilidad de que un resultado sea diferente al esperado.'</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Así que ahora que sabemos cuál es el riesgo, ¿cuál es exactamente el riesgo en términos financieros?<br /><em>'La posibilidad de que el retorno final de una inversión sea diferente al esperado'&nbsp;</em>A menudo se dice que operar en los mercados financieros en realidad consiste en gestionar los riesgos.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Ejemplo</strong>: ”Al comprar EUR/USD, de hecho tengo la opinión de que el euro se fortalecerá contra el dólar de los EEUU”<br />El riesgo es la posibilidad de que el euro se debilite contra el dólar de EEUU, un movimiento adverso.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>En otras palabras, el riesgo financiero es la posibilidad de perder una parte o la totalidad de tu inversión original.</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Riesgo financiero"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Si operar en los mercados financieros de hecho consiste en gestionar los riesgos ¿por qué nos arriesgamos a que el mercado vaya en nuestra contra?</p><p>Aunque el riesgo nos haga susceptibles a movimientos adversos en el mercado, el riesgo también nos presenta la posibilidad/oportunidad de ganar enormes sumas de dinero..</p><p><strong>Riesgo = oportunidad</strong>&nbsp;<em>And</em>&nbsp;<strong>y cuanto más alto es el riesgo, mayor es la oportunidad potencial.</strong></p><h5>The Risk/Reward Trade-Off</h5><p>Cuanto más alto sea el riesgo que asume un inversor, mayores deberían ser los retornos potenciales a fin de compensar el mayor riesgo.Esto se conoce como la relación entre riesgo y beneficio.</p><p><strong>Riesgo bajo = Retornos bajos, y riesgo alto = retornos altos</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Por qué arriesgarse"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Si operar en los mercados financieros de hecho consiste en gestionar los riesgos, ¿por qué nos arriesgamos a que el mercado vaya en nuestra contra?</p><p>Aunque el riesgo nos haga susceptibles a movimientos adversos en el mercado, el riesgo también nos presenta la posibilidad/oportunidad de ganar enormes sumas de dinero..</p><p><strong>Riesgo = oportunidad</strong><br /><em>And</em><br /><strong>y cuanto más alto es el riesgo, mayor es la oportunidad potencial.</strong></p><h5>The Risk/Reward Trade-Off</h5><p>Cuanto más alto sea el riesgo que asume un inversor, mayores deberían ser los retornos potenciales a fin de compensar el mayor riesgo.Esto se conoce como la relación entre riesgo y beneficio.</p><p><strong>Riesgo bajo = Retornos bajos<br />y riesgo alto = retornos altos</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Qué hace que el trading sea una actividad tan arriesgada."
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<strong>Órdenes Stop Loss</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "<em>Las órdenes de stop-loss son la herramienta de gestión del riesgo más importante, y siempre deberían utilizarse al operar.</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Tipos de paradas",
+              "type": "h5"
+            },
+            {
+              "text": "<strong>Stops a la par: </strong>&nbsp;– ejecutados en el punto en el que la ganancia es la misma que la pérdida.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Stops de tiempo</strong>&nbsp;– se basan en que transcurra cierto período de tiempo antes de que se ejecute la orden",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Stops dinámicos</strong>&nbsp;- fijados en un nivel de porcentaje por debajo del precio de mercado.Te permiten dejar correr los beneficios y minimizar tus pérdidas al mismo tiempo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>Aprende a apreciar tus pérdidas, gestionarlas y aprender de ellas, o un día te visitará la madre de todas las pérdidas y dejará tu cuenta totalmente vacía.</em>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Herramientas para la gestión del riesgo"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<em>Las inversiones de bajo riesgo tendrán retornos potenciales más bajos que las inversiones de alto riesgo.</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Riesgo bajo = Retornos potenciales bajos, riesgo medio = retornos potenciales medios y riesgos altos = retornos potenciales altos</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Tu estilo de trading definirá a menudo si tu estrategia tiene un riesgo alto o bajo, pero incluso las mejores estrategias de inversión/trading son de poca ayuda sin no controlas el riesgo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Que duro eres?",
+              "type": "h5"
+            },
+            {
+              "text": "<em>Tu tolerancia al riesgo es el grado de incertidumbre que puedes asumir en relación con una pérdida potencial o la reducción del valor de tu cartera de inversión.</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "La tolerancia al riesgo será diferente para cada persona, y cuánto puedas asumir dependerá en general de tres cosas:",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "<strong>Ingresos&nbsp;</strong>- Tus ingresos personales y tu situación personal. Ejemplo: una persona con un salario bajo y que está a punto de casarse probablemente tendrá un apetito por el riesgo bajo o moderado, y por consiguiente lo más probable es que tenga un capital disponible para arriesgarlo que una persona soltera con un salario de nivel medio.",
+                "<strong>Horizonte temporal</strong>&nbsp;- la cantidad de tiempo que piensas tener invertido tu dinero.Los horizontes temporales más largos se asocian con menos riesgos que los horizontes temporales más cortos.",
+                "<strong>Objetivos de inversión&nbsp;</strong>- cuanto mayores sean tus metas financieras, mayor será el riesgo que probablemente tengas que asumir."
+              ]
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Tolerancia al riesgo"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<strong>¿Qué es la asignación de activos?</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "La asignación de activos es una estrategia de inversión orientada a equilibrar los riesgos y las recompensas.Reparte los activos de tu cartera de acuerdo con tus metas de inversión, tolerancia al riesgo y horizonte temporal.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Las diferentes asignaciones de activos tienen diferentes niveles de riesgo, y a continuación hay un ejemplo del riesgo asociado a una selección de asignaciones de activos:;",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Diversificación</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "<em>'Una técnica de gestión del riesgo que aspira a reducir el riesgo combinando en tu cartera muchas inversiones diferentes'</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "La diversificación es particularmente útil al intentar compensar un riesgo no sistemático, que sea específico del sector o la empresa.",
+              "type": "paragraph"
+            },
+            {
+              "text": "La diversificación se basa en el razonamiento de que cualquier activo con un mal desempeño relativo debería verse compensado por otros con un desempeño bueno, suavizando así el riesgo no sistemático.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>Cuanto más baja sea la correlación entre las inversiones en tu cartera, más bajo será el riesgo. <br /></em><strong><em></em>Ejemplo</strong>&nbsp; de correlación",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>El oro y el dólar de los EEUU</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Que el oro esté inversamente correlacionado con el dólar significa que el valor del oro se aprecia cuando el dólar se debilita.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Oro y petróleo crudo</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Las subidas en los precios del oro tienden a llevar a un aumento en el valor del oro, ya que el oro se compra a menudo como cobertura contra la inflación.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Controlando su apalancamiento</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "<strong>Escala del apalancamiento:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - -&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nivel de riesgo</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>¡Recuerda!</strong>&nbsp;El apalancamiento pude personalizarse de acuerdo con tu apetito por el riesgo.Si tienes aversión al riesgo, operas con márgenes requeridos más altos para reducir tu apalancamiento",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>¡Sé prudente!</strong>&nbsp;Aprende a controlar tu apalancamiento, trátalo como una tarjeta de crédito, ¡ten cuidado con no perder el control usando dinero que no tienes solo porque está disponible!",
+              "type": "paragraph"
+            },
+            {
+              "text": "Análisis técnico",
+              "type": "h5"
+            },
+            {
+              "text": "<em>s El análisis técnico sirve como una ayuda importante en la gestión del riesgo. Podemos usarlo para:</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Podemos usarlo para:",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Identificar puntos y momentos de entrada/salida",
+                "Identificar soporte y resistencia",
+                "Órdenes estratégicas de stop-loss",
+                "Identificar tendencias y patrones chartistas",
+                "Crear parámetros de riesgo - indicadores técnicos"
+              ]
+            },
+            {
+              "text": "Todo lo anterior ayudará a la reducción del riesgo y ayudará a mejorar tus posibilidades de ganar beneficios.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Para más información sobre análisis técnico, consulta el módulo sobre Análisis.</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Mitigar el riesgo"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<strong>1.Utilice Stop Losses </strong>",
+              "type": "h5"
+            },
+            {
+              "text": "Usar un stop-loss, un nivel al que una posición abierta se cierra automáticamente, es una buena práctica estándar ya que puede limitar el riesgo de pérdidas y también demuestra una disciplina en el trading que es primordial para ir construyendo una saludable cuenta de trading.Sin embargo, cuando los mercados están increíblemente volátiles podrías experimentar algún deslizamiento de precios (slippage) que haga imposible cerrar la posición al nivel exacto que especificaste.En mercados volátiles a menudo hay un \"hueco\" en el precio, en el que el producto se mueve sustancialmente más que lo esperado a la baja o al alza, quizás hasta un 10-15%.Con un stop-loss normal recibirás el primer precio que esté disponible, lo que te podría ocasionar una gran pérdida, mayor incluso que tu depósito inicial.",
+              "type": "paragraph"
+            },
+            {
+              "text": "2. Reduzca el tamaño de su comercio",
+              "type": "h5"
+            },
+            {
+              "text": "El margen es una de las mayores ventajas de operar con CFD, y los de RightFX Markets con nuestro 0,25% en FX, 0,50% en el oro y los principales índices y un 3% en materias primas están entre los más competitivos del mercado; no obstante, con cualquier operativa basada en garantías marginales (apalancada) siempre deberías ser consciente de cuánto se necesita para mantener abierta tu posición en el mercado. Una regla orientativa general es que ninguna posición de trading debería suponer una exposición al riesgo superior al 5% de tu capital disponible.No obstante, en condiciones de mercado volátiles, esta clase de apalancamiento es peligrosa ya que amplificarán cualquier pérdida incluso más de lo normal.Las mejores prácticas de mercado consistirían en dividir por la mitad el tamaño normal de tus posiciones en condiciones de volatilidad.",
+              "type": "paragraph"
+            },
+            {
+              "text": "3: Limite sus operaciones",
+              "type": "h5"
+            },
+            {
+              "text": "Los mercados volátiles se asocian con grandes volúmenes negociados, lo que puede provocar demoras en la ejecución.Aunque el trading online normalmente significa que colocas una operación a los precios bid y ask actuales que puedes ver, algunos creadores de mercado pueden ensanchar los spreads bid-ask, o incluso retirar temporalmente los precios a los que se puede negociar.Esto significa que la ejecución puede demorarse y que los precios para la ejecución puede que no estén disponibles.RightFX ofrece spreads fijos independientemente de cuáles sean las condiciones del mercado, pero en momentos de mayor volatilidad a veces es mejor limitar la ejecución de las operaciones.",
+              "type": "paragraph"
+            },
+            {
+              "text": "4: Cíñete a tu estrategia",
+              "type": "h5"
+            },
+            {
+              "text": "Los períodos volátiles es fácil que te afecten y que te aparten de tu estrategia de trading habitual, pero la mayoría de los traders experimentados aplican la misma estrategia que usan habitualmente para elegir sus inversiones. Aunque resulte tentador reaccionar a la volatilidad es increíblemente difícil predecir movimientos a corto plazo, por lo que has de ceñirte a tus estrategias de trading y limitar tu exposición al riesgo en momentos de alta volatilidad.",
+              "type": "paragraph"
+            },
+            {
+              "text": "¿Cuáles son los bits importantes?",
+              "type": "h5"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Necesitamos gestión del riesgo para controlar nuestras pérdidas",
+                "Asegúrate siempre de conocer tu tolerancia al riesgo",
+                "Cuenta con una estrategia de gestión del riesgo: apalancamiento/volatilidad/diversificación/asignación de activos",
+                "Incorpora una estrategia de stop-loss como parte de tu estrategia de gestión del riesgo",
+                "Mantén la disciplina al poner en práctica tu estrategia"
+              ]
+            },
+            {
+              "text": "<strong>PLANIFICA TU TRABAJO Y TRABAJA EN TU PLANIFICACIÓN</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Reglas de oro para negociar en un mercado de volatille"
+            }
+          ]
+        }
+      ],
+      "primary": {
+        "id": "risk",
+        "section_image": {
+          "url": "/Insights/academy-bg.png"
+        },
+        "section_title": [
+          {
+            "text": "5. Riesgo"
+          }
+        ]
+      }
+    },
+    {
+      "items": [
+        {
+          "rep_body": [
+            {
+              "text": "La operar, hay dos emociones que son más habituales, y más peligrosas, que todas las demás;&nbsp;<strong>el miedo </strong>&nbsp;y&nbsp;<strong>la codicia.</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "El miedo y la codicia pueden arruinar incluso las mejores estrategias de trading.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Un solo instante de miedo o codicia puede dar paso a un momento de locura, y que meses de beneficios ganados trabajando duramente se vayan por el sumidero.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Las emociones descontroladas no deberían usarse de excusa para las pérdidas, y las pérdidas no deberían ser una excusa para las emociones descontroladas.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>¡¡Recuerda!!</strong>&nbsp;El trading afecta a la psicología tanto como la psicología afecta al trading.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Codicia",
+              "type": "h5"
+            },
+            {
+              "text": "<strong><em>“La codicia no calma el hambre </em></strong>",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Mucha gente piensa que la codicia consiste en pensar que el único propósito del trading es ganar dinero.",
+                "Esto NO es en lo que consiste la codicia."
+              ]
+            },
+            {
+              "text": "<strong><em>La codicia consiste en intentar ganar dinero &nbsp;demasiado rápidamente.</em></strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Hay un gran número de maneras de ser codicioso en el trading;",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Operar con posiciones demasiado grandes",
+                "Operar con demasiada frecuencia",
+                "Albergar expectativas poco realistas",
+                "Soñar con la gran operación ganadora, en lugar de ir construyendo tu patrimonio con perseverancia"
+              ]
+            },
+            {
+              "text": "<strong>El miedo</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "El miedo en el trading tiene dos caras;",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Miedo a las pérdidas",
+                "Miedo a perderse una gran oportunidad"
+              ]
+            },
+            {
+              "text": "El miedo a las pérdidas impulsa a los traders a cerrar operaciones rentables prematuramente, lo que significa que se pierden beneficios potenciales. El miedo a perderse una gran oportunidad impulsa a los traders a abandonar su estrategia de trading para no perderse un gran movimiento en el precio. El miedo NO es bueno, ya que conduce a operar excesivamente, y a hacer entradas y salidas en un mal momento. Así que<br />So",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>¡¡NO TENGAS MIEDO!!</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Las emociones del comercio"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<em>La gestión del riesgo implica calcular cuánto riesgo estás dispuesto(a) a asumir a fin de ganar un beneficio.</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Para estudiar con más detalle el riesgo y las herramientas de gestión del riesgo, puedes consultar de nuevo el módulo \"Riesgo\".",
+              "type": "paragraph"
+            },
+            {
+              "text": "Al operar es importante que los traders se den cuenta de la importancia de la gestión del riesgo: este te enseña a marcarte un ritmo, a pensar con claridad y, sobre todo, te ayuda a mantener tus emociones bajo control.",
+              "type": "paragraph"
+            },
+            {
+              "text": "He aquí algunas cosas en las que deberías pensar mientras operas:",
+              "type": "paragraph"
+            },
+            {
+              "text": "Tamaño de la operación: comience con operaciones pequeñas",
+              "type": "h5"
+            },
+            {
+              "text": "<em>Cuando tomas un baño caliente, no te metes directamente en el agua: primero compruebas la temperatura con los dedos de los pies.El trading no es diferente.Nunca entres al mercado con la totalidad de tu posición.Comprueba primero el mercado con una posición más pequeña, antes de abrir toda la posición.</em>",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "•  Los tamaños de posición que son demasiado grandes para tu cuenta pueden provocar giros exagerados en la valoración, y causar estragos en tu cuenta, así como en tus emociones.Esto puede luego llevarte a cometer errores provocados por el miedo o la codicia.Como hemos dicho antes, el trading afecta a la psicología, tanto como la psicología afecta al trading.",
+                "No olvidemos que una operación puede ir mal: si estás soñando con un beneficio enorme abriendo una operación de gran tamaño, recuerda que esta operación de alto riesgo también puede producir una pérdida que sea tan grande como el beneficio con el que estás soñando."
+              ]
+            },
+            {
+              "text": "",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Relación riesgo / recompensa</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "Márcate como objetivo una ratio de beneficio/pérdida de 3 a 1, en el peor de los casos de 2 a 1.o",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Por ejemplo, si tu objetivo está en un beneficio de 60 pip, tu pérdida máxima debería estar en torno a los 30 pip.O si la pérdida máxima que aceptas asumir es de 1.000$, tu objetivo de beneficios debería estar al menos en los 2.000$.",
+                "Si tu estilo de trading consiste en entrar y salir del mercado para ganar un beneficio pequeño cada vez, entonces asegúrate de que tus pérdidas también sean pequeñas."
+              ]
+            },
+            {
+              "text": "Plantificar tu ratio de recompensa/riesgo significa que puedes prepararte mentalmente para la pérdida que podrías afrontar, y de ese modo evitar operar presa de las emociones.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>Una sola operación impulsada por las emociones puede producir una pérdida suficientemente grande como para eliminar los beneficios de muchas operaciones rentables.</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Objetivos de P / L",
+              "type": "h5"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Deberías tener puntos de salida en mente antes de realizar una operación.",
+                "Deberías tener objetivos de beneficio/pérdida diarios."
+              ]
+            },
+            {
+              "text": "<em>Una vez alcances este objetivo deberías dejar de operar a fin de evitar tener que devolverle al mercado parte de tus beneficios.</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Los objetivos de beneficios/pérdidas ayudan a evitar que el miedo y la codicia te hagan operar excesivamente y/o aumentar el tamaño de tus posiciones.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Volatilidad del mercado",
+              "type": "h5"
+            },
+            {
+              "text": "Algunos momentos del día son más volátiles que otros:",
+              "type": "paragraph"
+            },
+            {
+              "text": "La tarde en Londres, que se corresponde a la mañana en Nueva York, es el momento más volátil del día para la mayor parte de los mercados, cuando se dan los mayores giros en el precio y los mayores beneficios o pérdidas potenciales.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Durante los períodos de volatilidad extrema, si no eres un trader experimentado normalmente lo mejor es quedarte al margen.</em>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Gestionar el riesgo y la emoción"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "He aquí algunos consejos de trading más que podrían resultarte de utilidad:",
+              "type": "paragraph"
+            },
+            {
+              "text": "Implementar la gestión de riesgos",
+              "type": "h5"
+            },
+            {
+              "text": "Usa órdenes de stop-loss y limitadas: dejan fuera las emociones a la hora de cerrar operaciones, y reducen el riesgo de pérdidas innecesarias por apegarse demasiado a una posición.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>Los traders dejan correr las pérdidas porque su apego emocional les hace albergar esperanzas de que el precio se dará la vuelta.</em>",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Lo más difícil que un trader se ve obligado a hacer es cerrar manualmente una operación con pérdidas; colocar una orden de stop-loss al mismo tiempo que realizas una operación evitará tener que hacer esto.",
+                "Los traders se quejan a menudo cuando les salta un stop y luego el precio se gira a su favor: nunca canceles una orden de stop loss después de haberla colocado.Colocaste el stop cuando tenías la cabeza fría, antes de abrir la posición: ahora tienes estrés porque el precio se mueve en tu contra."
+              ]
+            },
+            {
+              "text": "<em>¡Confía en tu evaluación original!</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Trate el comercio como un negocio, no como un pasatiempo.",
+              "type": "h5"
+            },
+            {
+              "text": "No invertirías 10.000$ en una aventura empresarial siguiendo un impulso, así que ¡no lo hagas al operar!",
+              "type": "paragraph"
+            },
+            {
+              "text": "Asegúrate de disponer de tiempo para investigar los mercados cuando no estés operando.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>Una operación basada en buena información siempre es una mejor que una operación impulsiva.</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "La paciencia ",
+              "type": "h5"
+            },
+            {
+              "text": "La paciencia es una virtud en el trading, y no es lo mismo que dejar de operar por miedo.",
+              "type": "paragraph"
+            },
+            {
+              "text": "La paciencia significa...",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "...aguardar a que el precio active tus indicadores antes de operar",
+                "...esperar horas si es necesario hasta que llegue el momento correcto para entrar en el mercado.Operar rentablemente es lo que importa, no el número de operaciones por día.",
+                "...no lanzarte a operar solo porque veas moverse el precio o porque te estés aburriendo.",
+                "...no operar basándote en consejos o \"soplos\".Encontrarás opiniones enormemente divergentes incluso entre los considerados como expertos.Haz tu propia investigación antes de operar."
+              ]
+            },
+            {
+              "text": "<em>Quedarte fuera del mercado es una decisión de trading válida.</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Sobre comercio",
+              "type": "h5"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Operar en exceso es un error común entre los traders principiantes, que intentan atrapar cualquier pequeño movimiento.",
+                "El precio se mueve a la baja, así que venden, se mueve al alza y compran, y de ese modo siempre están correteando detrás del mercado, y generalmente perdiendo dinero."
+              ]
+            },
+            {
+              "text": "<em>Aprende a anticipar los movimientos del precio, no solamente a seguirlos.</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Plazos",
+              "type": "h5"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "El trading a corto plazo es enormemente intenso y requiere mucha disciplina y concentración, así que asegúrate de estar preparado(a) para este nivel de intensidad y de poder operar sin distracciones.",
+                "Las operaciones a largo plazo no pueden vigilarse constantemente, y son más apropiadas para traders que tengan otros compromisos"
+              ]
+            },
+            {
+              "text": "<strong>Hacer frente a las operaciones perdedoras</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "<em>Aprende a apreciar tus pérdidas</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Esta es una expresión que se oye a menudo en el mundo del trading, y si no aprendes a apreciar tus pérdidas tu trayectoria en el trading probablemente será breve..",
+              "type": "paragraph"
+            },
+            {
+              "text": "Así pues, ¿qué significa exactamente aprende a apreciar tus pérdidas?",
+              "type": "paragraph"
+            },
+            {
+              "text": "Significa que deberías comprender por qué realizaste una operación perdedora;",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "¿Interpretaste mal tus indicadores?",
+                "¿No tuviste en cuenta la publicación de un dato económico importante?</li>"
+              ]
+            },
+            {
+              "text": "Algunas operaciones perdedoras no son un error tuyo: por ejemplo, un evento impredecible como un ataque terrorista puede mover el mercado, pero...",
+              "type": "paragraph"
+            },
+            {
+              "text": "La mayoría de las operaciones que acaban en pérdidas se deben a que el trader tomó una decisión impulsiva.",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Para rebajar el impacto psicológico de una pérdida, redefine esa pérdida: en lugar de un fracaso, que sea una oportunidad de aprendizaje.",
+                "No culpes a los mercados por tus pérdidas, porque los mercados no te deben nada: estudia tu estrategia y ajústala como corresponda."
+              ]
+            },
+            {
+              "text": "<em>Opera en función de lo que hace el mercado, no de lo que pienses que debería hacer.Las tendencias y las condiciones de mercado pueden cambiar: asegúrate de que tu estrategia cambia con ellas..</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Taking profit",
+              "type": "h5"
+            },
+            {
+              "text": "<em>Corta tus pérdidas y deja correr tus beneficios.</em>",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "No recojas beneficios demasiado pronto por miedo.El miedo hace que la mente empiece a dudar y reaccione mientras la operación todavía es \"cosa segura\" y está en beneficios, da igual si estos son pequeños.",
+                "A la inversa, no dejes que una operación ganadora se convierta en perdedora",
+                "Márcate unas reglas que seguir: cierra una posición si el mercado retrocede un 20%fdesde tu objetivo de beneficios.Esto te permite asegurarte de que tus emociones no se te van de las manos al operar.",
+                "Excepto en circunstancias especiales, desarrolla el hábito de recoger tus beneficios \"demasiado pronto\".”",
+                "No te atormentes si una operación sigue sin moverse a tu favor.Un error común es el de cerrar una posición que está en beneficios y mantener una que esté en pérdidas."
+              ]
+            },
+            {
+              "text": "<strong>Construyendo el capital de su cuenta</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "<em>No intentes ganar una fortuna en una única operación: nunca te sentirás satisfecho(a) si tienes expectativas poco realistas.</em>",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Aspira a construir tu cuenta con perseverancia: un 5% diario es un retorno excelente.",
+                "Recuerda que tendrás períodos en los que tus posiciones registrarán pérdidas no realizadas (drawdowns) o experimentarás movimientos laterales. Si sufres 3 jornadas seguidas con pérdidas, da un paso atrás y abstente de operar durante al menos un día hasta recuperar la calma.Usa ese tiempo para reevaluar tu estrategia y analizar el mercado."
+              ]
+            },
+            {
+              "text": "Para resumir, no subestimes el poder de tus emociones...",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>ASUME EL CONTROL DE TU TRADING, NO PERMITAS QUE EL TRADING SEA EL QUE TE CONTROLE A TI</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Trading Tips"
+            }
+          ]
+        }
+      ],
+      "primary": {
+        "id": "psychology",
+        "section_title": [
+          {
+            "text": "6. Trading Psychology"
+          }
+        ]
+      }
+    }
+  ]
+}

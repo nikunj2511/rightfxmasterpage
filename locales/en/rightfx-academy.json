@@ -1,0 +1,2693 @@
+{
+  "title": "RightFX <span>Academy</span>",
+  "description": "The RightFX Trading Academy is a module-based learning program which allows you to gain confidence and knowledge in trading the financial market independently.",
+  "Markets": "Markets",
+  "CFD Trading": "CFD Trading",
+  "Forex": "Forex",
+  "Analysis": "Analysis",
+  "Risk": "Risk",
+  "Pyschology": "Pyschology",
+  "Welcome to the online trading academy": "Welcome to the online trading academy",
+  "The Academy is a free resource": "The Academy is a free resource which can be provided on a one-to-one or group basis and is tailored for beginners and experienced traders. <br/>Work through our six online trading modules to develop your trading confidence.",
+  "pageContent": [
+    {
+      "items": [
+        {
+          "rep_body": [
+            {
+              "text": "So, you want to be a trader, but you don’t know what to trade, how to trade or where to trade?",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>This is the place to start.</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "By the end of our trading academy, you’ll be informed, enlightened and empowered to start trading for real.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Let’s get down to business; if you want to trade the financial markets, you need to understand what the financial markets are.",
+              "type": "paragraph"
+            },
+            {
+              "text": "If you are confused or not sure, don’t worry, you may know more than you think you do. The financial markets have many names such as the stock market, capital markets, and even just the markets. Put simply, the financial markets are where buyers and sellers can participate in the trading of assets.",
+              "type": "paragraph"
+            },
+            {
+              "text": "There are different types of markets, different participants, different products and even different types of investors. To understand the markets fully, it’s important to understand all the players involved.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Getting started"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "So, you want to be a trader, but you don’t know what to trade, how to trade or where to trade?",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>This is the place to start.</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "By the end of our trading academy, you’ll be informed, enlightened and empowered to start trading for real.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Let’s get down to business; if you want to trade the financial markets, you need to understand what the financial markets are.",
+              "type": "paragraph"
+            },
+            {
+              "text": "If you are confused or not sure, don’t worry, you may know more than you think you do. The financial markets have many names such as the stock market, capital markets, and even just the markets. Put simply, the financial markets are where buyers and sellers can participate in the trading of assets.",
+              "type": "paragraph"
+            },
+            {
+              "text": "There are different types of markets, different participants, different products and even different types of investors. To understand the markets fully, it’s important to understand all the players involved.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Financial Markets"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Now that you have a basic understanding of what the financial markets are let’s take a look at the institutions and corporations that make them.",
+              "type": "paragraph"
+            },
+            {
+              "text": "A list of the main market participants are;",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Commercial Banks</strong> – Retail and Investment Banks",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Brokers</strong> – Electronic and Voice Brokers",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Institutional Investors</strong> – Corporate and Investment Institutions e.g. Pension Funds / Hedge Funds",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Central Banks</strong> – such as the BoE (Bank of England)",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Market Participants"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Next, let’s move on to what is actually traded on the financial markets.",
+              "type": "paragraph"
+            },
+            {
+              "text": "There are essentially two different methods of Trading;",
+              "type": "paragraph"
+            },
+            {
+              "text": "The first is <strong>Exchange Based Trading</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Trading which is conducted on a centralized, highly regulated exchange",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Example:</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>NYSE</strong> - New York Stock Exchange <br /><strong>NYMEX-COMEX</strong> - New York Mercantile Exchange - Commodity Exchange <br /><strong>CME</strong> - Chicago Mercantile Exchange <br /><strong>CBOT</strong> - Chicago Board of Trade <br /><strong>LSE</strong> - London Stock Exchange <br /><strong>LME</strong> - London Metal Exchange <br /><strong>IPE</strong> - International Petroleum Exchange",
+              "type": "paragraph"
+            },
+            {
+              "text": "The second is <strong>Over the Counter trading (OTC)</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "A security traded off an exchange, usually directly between banks through a dealer network",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Example:</strong> The Inter Bank Currency Market, The Derivatives & Bond Markets.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Types of Product"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "What kind of trader are you? There are several different styles of trading which will more often than not categorize a trader into one of the two below;",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Hedger</strong> - A person whose primary motivation is not seeking profits, but instead to reduce the risk of adverse price movements in a security",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Speculator</strong> - A person seeking large profits in return for large risks by trying to anticipate price movements, in the hope of making quick, large gains",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Types of Investors"
+            }
+          ]
+        }
+      ],
+      "primary": {
+        "id": "markets",
+        "section_image": {
+          "url": "/Insights/academy-bg.png"
+        },
+        "section_title": [
+          {
+            "text": "1. An introduction to the markets"
+          }
+        ]
+      }
+    },
+    {
+      "items": [
+        {
+          "rep_body": [
+            {
+              "text": "CFDs are often traded on what is called leverage [don’t worry we’ll get to this a bit later on] to give traders more trading power, flexibility, and opportunities. For the meantime, let’s just keep it simple with the following example:",
+              "type": "paragraph"
+            },
+            {
+              "text": "The Agreement:",
+              "type": "h5",
+              "class": "my4"
+            },
+            {
+              "text": "Person A believes Gold is going to rise from $1175 per oz",
+              "type": "paragraph"
+            },
+            {
+              "text": "Person B believes Gold is going to fall from $1175 per oz",
+              "type": "paragraph"
+            },
+            {
+              "text": "Therefore the two clients enter an agreement to settle the difference from $1175.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The Outcome",
+              "type": "h5",
+              "class": "my4"
+            },
+            {
+              "text": "Person A Buys 1 oz of Gold at $1175",
+              "type": "paragraph"
+            },
+            {
+              "text": "Person B Sells 1 oz of Gold at $1175",
+              "type": "paragraph"
+            },
+            {
+              "text": "After 3 days, Gold is trading at $1180 showing Person A profit of $5 on his oz and person B a loss of $5<br/>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Person A Closes the position at $1180 and makes $5",
+              "type": "paragraph"
+            },
+            {
+              "text": "Person B Closes the position at $1180 and loses $5",
+              "type": "paragraph"
+            },
+            {
+              "text": "That example makes CFDs look pretty simple, and that&apos;s because, well, they are. Trading CFDs isn’t all that different from trading traditional shares;<br/>",
+              "type": "paragraph"
+            },
+            {
+              "text": "If you buy 500 shares of a company at £5 then you have £2500 of stock.",
+              "type": "paragraph"
+            },
+            {
+              "text": "If you buy 500 shares with a CFD at £5 then you also have £2500",
+              "type": "paragraph"
+            },
+            {
+              "text": "If the share price rises by 10% then you have made £250 from your share trade.",
+              "type": "paragraph"
+            },
+            {
+              "text": "If the share price rises by 10% then you have made £250 from your CFD trade",
+              "type": "paragraph"
+            },
+            {
+              "text": "Now you’re thinking, well if the value is the same, the profit is the same, the loss is the same, the risk is the same, then why trade CFDs?<br/>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Read “Advantages of CFD Trading” below to find out",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "CFD Trading Example"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "The financial markets are basically an &apos;International flow of money chasing money&apos;.</p>",
+              "type": "paragraph"
+            },
+            {
+              "text": "There are <strong>3 Main Global Centers</strong> located across the world in <strong>Tokyo, London, New York</strong>.</p>",
+              "type": "paragraph"
+            },
+            {
+              "text": "And there are even more types of <strong>Markets</strong> – FOREX & Money Markets, Equities, Commodities, Fixed Income & ETF Markets & Emerging Markets.</p>",
+              "type": "paragraph"
+            },
+            {
+              "text": "These different products are traded on what is known as <strong>Exchanges</strong>. One of the most well-known exchanges, for example, is the <strong>NYSE</strong>(New York Stock Exchange).</p>",
+              "type": "paragraph"
+            },
+            {
+              "text": "(License No <a target='_blank' rel='noreferrer' href='https: //www.fscmauritius.org/en/supervision/register-of-licensees/register-of-licensees-details?licence_no=GB19024778&key=&cat=GB&code='>GB19024778</a> )</p>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Advantages of CFD Trading"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Now that you have a basic understanding of what the financial markets are let’s take a look at the institutions and corporations that make them.",
+              "type": "paragraph"
+            },
+            {
+              "text": "A list of the main market participants are;",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Commercial Banks</strong> – Retail and Investment Banks",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Brokers</strong> – Electronic and Voice Brokers",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Institutional Investors</strong> – Corporate and Investment Institutions e.g. Pension Funds / Hedge Funds",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Central Banks</strong> – such as the BoE (Bank of England)",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "The Potential Pitfalls of CFD Trading"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Next, let’s move on to what is actually traded on the financial markets.",
+              "type": "paragraph"
+            },
+            {
+              "text": "There are essentially two different methods of Trading;",
+              "type": "paragraph"
+            },
+            {
+              "text": "The first is <strong>Exchange Based Trading</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Trading which is conducted on a centralized, highly regulated exchange",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Example:</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>NYSE</strong> - New York Stock Exchange <br /><strong>NYMEX-COMEX</strong> - New York Mercantile Exchange - Commodity Exchange <br /><strong>CME</strong> - Chicago Mercantile Exchange <br /><strong>CBOT</strong> - Chicago Board of Trade <br /><strong>LSE</strong> - London Stock Exchange <br /><strong>LME</strong> - London Metal Exchange <br /><strong>IPE</strong> - International Petroleum Exchange",
+              "type": "paragraph"
+            },
+            {
+              "text": "The second is <strong>Over the Counter trading (OTC)</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "A security traded off an exchange, usually directly between banks through a dealer network",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Example:</strong> The Inter Bank Currency Market, The Derivatives & Bond Markets.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "The 3 Main Market Categories"
+            }
+          ]
+        }
+      ],
+      "primary": {
+        "id": "cfd",
+        "section_title": [
+          {
+            "text": "2. What is CFD Trading"
+          }
+        ]
+      }
+    },
+    {
+      "items": [
+        {
+          "rep_body": [
+            {
+              "text": "FOREX is the largest financial market in the world in terms of both size and liquidity. To give you a general idea of the size, an average of $5 trillion is traded globally each day. No stock market in the world trades such a huge amount on a daily basis.<",
+              "type": "paragraph"
+            },
+            {
+              "text": "The idea of FOREX is simple really; it’s the exchange of one country’s currency for the currency of another country. With FX you’re essentially buying one currency, and selling the other and so naturally FX is traded in pairs such the pound and the US Dollar [GBP/USD]. There are some “FX pairs” that are more popular than others, Euro vs. US Dollar [EUR/USD], British Pound vs. US Dollar [GBP/USD], US Dollar vs. Japanese yen [USD/JPY], and US Dollar vs. Swiss Franc [USD/CHF]. These four popular currency pairs are often referred to as “the Majors”<",
+              "type": "paragraph"
+            },
+            {
+              "text": "At almost any point during the day, there is always a financial center somewhere in the world open for business. The FX market is open 24 hours a day and only closes on weekends between 22:00 (GMT) on Friday and 22:00 (GMT) on Sunday.<",
+              "type": "paragraph"
+            },
+            {
+              "text": "The Foreign Exchange market is homeless; by that, we mean that it has no set physical location. Homeless markets are known as OTC [Over-the-Counter] markets in which all trades are processed electronically 24 hours a day between banks around the world. Forex, unlike other financial markets, does not have an exchange center so you can pretty much trade FX anywhere in the world, at any point in time but there are some peak trading session times in each region. We have a general outline below:<",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Forex"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "We mentioned above that currencies are always traded in pairs; this is because when you buy one you’re essentially selling the other and vice versa.<br />So how do you read an FX quote?",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>E.g.</strong>&nbsp;EUR/USD = 1.1200",
+              "type": "paragraph"
+            },
+            {
+              "text": "This means that 1 € = 1.12 $",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>EUR;</strong>&nbsp;in this quote EUR is known as the base currency.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>USD;</strong>&nbsp;in this quote USD is known as the counter or quote currency.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>This quote is also referred to as a direct quote which is where US Dollar is the counter or quote currency</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>E.g.</strong>&nbsp;USD/JPY = 125.00",
+              "type": "paragraph"
+            },
+            {
+              "text": "This means 1 $ = 125 ¥",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>USD;</strong>&nbsp;in this quote USD is known as the base currency.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>JPY;</strong>&nbsp;in this quote JPY is known as the counter or quote currency.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>This quote is also referred to as an indirect quote which is where US Dollar is the base currency</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Quotes in Forex"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "All forex quotes have two prices attached to them, one is a bid price, and the other an ask price.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>The bid price</strong>&nbsp;– if you want to SELL the base currency, then you would click on the bid price.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The bid price is the price at which the other party is willing to buy the base currency you want to sell in exchange for the quote currency.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>The asking price</strong>&nbsp;– if you want to BUY the base currency, then you would click on the asking price.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The asking price is the price at which the other party is willing to sell the base currency to you in exchange for the quote currency.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The&nbsp;<strong>BID</strong>&nbsp;price is always lower than the&nbsp;<strong>ASK</strong>&nbsp;price and the difference between the two is known as the SPREAD.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The spread is the difference in price between buying and selling the base currency – this difference is charged to the client and paid to the Market Maker",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "The Bid, The Ask and The Spread"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Going long or going short is just trader lingo for buying or selling.",
+              "type": "paragraph"
+            },
+            {
+              "text": "As long as you remember&nbsp;<strong>LONG = BUY</strong>&nbsp;and&nbsp;<strong>SHORT = SELL</strong>&nbsp;then you’re halfway there.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The next bit is a bit trickier...",
+              "type": "paragraph"
+            },
+            {
+              "text": "When to go Long and when to go Short in FX",
+              "type": "h5"
+            },
+            {
+              "text": "<strong>”Going long”</strong>&nbsp;in FX terms is buying the base currency and selling the quote currency. It is what you would do if you thought the base currency was going to rise.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong><em>E.g. EUR/USD = 1.1200</em></strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "If you thought that EUR was going to rise, you would “go long” meaning that you would buy EUR with the hope that you would be able to sell it for a higher price once it has risen.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>You go long Euro @ 1.1200</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Euro rises in value;&nbsp;<strong>EUR/USD = 1.1400</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Your Euro is now worth $1.14 instead of $1.12</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>”Going short”</strong>&nbsp;in FX terms is selling the base currency and buying the quote currency. It is what you would do if you thought the base currency was going to fall.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong><em>E.g.EUR / USD = 1.1200</em></strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "If you thought that EUR was going to fall, you would “go short” meaning that you would sell EUR with the hope that you would be able to buy it for a cheaper price once it has fallen.",
+              "type": "paragraph"
+            },
+            {
+              "text": "You go short Euro @ 1.1200",
+              "type": "paragraph"
+            },
+            {
+              "text": "Euro falls in value;&nbsp;<strong>EUR/USD = 1.1000</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Your Euro is now worth $1.10 instead of $1.12</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Going Long or Going Short"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "You’ve probably heard them a million times; “PIPs” and “LOTs” may be little but in the trading world they’re a BIG thing. You won’t understand trading until you understand them.",
+              "type": "paragraph"
+            },
+            {
+              "text": "What the pip!?",
+              "type": "h5"
+            },
+            {
+              "text": "PIP stands for “percentage in point” and is the smallest possible increment in a quote.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Example</strong>: GBP/USD has a rate of 1.5696 a PIP here would be 0.0001.",
+              "type": "paragraph"
+            },
+            {
+              "text": "USD/JPY has a rate of 123.45 a PIP here would be 0.01.",
+              "type": "paragraph"
+            },
+            {
+              "text": "So a PIP is essentially the last decimal place of quotation, most currency pairs will have a PIP being equal to 0.0001 as they are usually quoted to 4 decimal places. This isn’t always the case, however, as we can see from the example above.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Watch Your Pips Grow into a lot More"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "One of the first concepts you need to understand as part of your Forex trading training is standard lots and micro lots; what are they and what’s the difference between them?",
+              "type": "paragraph"
+            },
+            {
+              "text": "What is a Forex lot?",
+              "type": "h5"
+            },
+            {
+              "text": "A standard forex lot is equal to 100,000 of the base currency so in the case of EUR/USD is EUR 100,000. The average pip size for a standard lot which is quoted to 4 decimal places is 10 of the counter currency so, in this case, $10. If you are down 10 pips on a standard EUR/USD contract you have lost $100.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Pip Movements (e.g. EUR/USD @ 1.28205):",
+              "type": "paragraph"
+            },
+            {
+              "text": "5th Decimal Place (Micro pip movement) = 100,000 (1 Lot) x 0.00001 = $1.00 P&amp;L<br />4th Decimal Place (1 pip movement) = 100,000 (1 Lot) x 0.00010 = $10.00 P&amp;L<br />3rd Decimal Place (10 pip movement) = 100,000 (1 Lot) x 0.00100 = $100.00 P&amp;L<br />2nd Decimal Place (100 pip movement (Big Figure)) = 100,000 (1 Lot) x 0.01000 = $1,000.00 P&amp;L<br />1st Deceimal Place (1,000 pip movement) = 100,000 (1 Lot) x 0.10000 = $10,000.00 P&amp;L",
+              "type": "paragraph"
+            },
+            {
+              "text": "Pip Movements (e.g. USD/JPY @ 76.850):",
+              "type": "paragraph"
+            },
+            {
+              "text": "3rd Decimal Place (Micro pip movement) = 100,000 (1 Lot) x 00.001 = Y100<br />2nd Decimal Place (1 pip movement) = 100,000 (1 Lot) x 00.010 = Y1,000<br />1st Decimal Place (10 pip movement) = 100,000 (1 Lot) x 00.100 = Y10,000",
+              "type": "paragraph"
+            },
+            {
+              "text": "Big Figure move = 100,000 (1 Lot) x 01.000 = Y100,000",
+              "type": "paragraph"
+            },
+            {
+              "text": "Let’s take another example in the form of USD/JPY. The standard lot size is USD 100,000 as USD is the base currency. As USD/JPY is quoted only to 2 decimal places then a pip is equivalent to JPY 1,000 so if you are up 10 pips on a standard USD/JPY contract you have made JPY 10,000.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Standard lots of forex are usually for institutional sized accounts; we're talking big rollers, who should have $25,000 or more to make trades using standard lots.",
+              "type": "paragraph"
+            },
+            {
+              "text": "What is a Forex lot?",
+              "type": "h5"
+            },
+            {
+              "text": "So let’s get real, if you’re thinking of starting Forex Trading, you have to start small and work your way up. Micro lots are good for beginners who need to get to grips with Forex trading. Unlike standard forex lots, which are worth 100,000 of the base currency, a micro lot is the equivalent to 1,000 worth of the base currency you want to trade. Similarly, unlike standard lots, [where 1pip=10 of the counter currency on pairs quoted to 4 decimal places and 1pip=1,000 of pairs quoted to 2 decimal places] 1 of a pip in a micro lot is only worth 0.10 (4 decimals) or 10 (2 decimals) of the counter currency.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "How Much is a Lot?"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Now that we know what a pip is, we know that it is just a teeny amount, so you need to trade a LOT for these tiny PIPs to really make a difference.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>'Leveraging lets you magnify your profit potential, at the risk of greater losses, through allowing you to control a relatively large asset for a fraction of its cost'</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Example</strong>: 0.25% margin deposit means you are trading 400 times leverage, for example;<br />Buying 1 lot of GBP/USD @ 1.2900 with a margin requirement of 0.25% will cost you $322.5.<br />The margin requirement means that you can trade a volume of $100,000 in the market.<br />Through leverage trading, you can take advantage of very small pip movements in the market by trading very large volumes. Don’t worry if you do not fully understand ”Leverage” yet, we’ll go into more detail about it in some of the later modules, or If you wish to see how our FX margin requirements are calculated click here for our Margin and Account Leverage FAQ.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Leverage and Margin"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<strong>Show me the money!</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "Now that you understand what a pip is and what a lot is, you need to know why you learned about them in the first place.",
+              "type": "paragraph"
+            },
+            {
+              "text": "We need pips and lots to work out our profit and loss; so here are the basics of your Ps and Ls.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Remember how we spoke about DIRECT and INDIRECT Forex quotes before? Well here’s where you can put your new knowledge to work!",
+              "type": "paragraph"
+            },
+            {
+              "text": "There are two rules for calculating your profit and loss in forex, and its all about the dollar",
+              "type": "paragraph"
+            },
+            {
+              "text": "Whenever you have a direct quote [where the quote currency is USD] you can calculate your profit and loss by using the following formula",
+              "type": "h5"
+            },
+            {
+              "text": "<strong><em>P/L = (SELL PRICE - BUY PRICE) x STANDARD LOT SIZE x NUMBER OF LOTS</em></strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Remember that the standard lot size is $100,000 and for mini lots, the standard size will be $10,000<br /><strong>Example</strong>: You buy 2 lots of EUR/USD at 1.1205 and sell at 1.1210<br />P/L = (1.1210 – 1.1205) x 100,000 x 2 = $100",
+              "type": "paragraph"
+            },
+            {
+              "text": "Whenever you have an indirect quote [where the quote currency is NOT USD] you can calculate your profit and loss by using the same formula.",
+              "type": "h5"
+            },
+            {
+              "text": "<strong><em>Example</em></strong>: You buy 1 lot of USD/AUD at 1.2917 and sell at 1.2932<br />P/L = (1.2932 – 1.2917) x 100,000 x 1 =&nbsp;<strong>150 AUD</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>CAREFUL</strong>: the profit figure stated here is in AUD, not USD. It is important to remember that with indirect quotes (where USD is not the quote currency) you need to convert the profit and loss figure to USD by dividing by the relevant exchange rate.",
+              "type": "paragraph"
+            },
+            {
+              "text": "You have 150 AUD;&nbsp;divide by the selling price&nbsp;[because you’re selling AUD and buying USD]<br />150 AUD/1.2932 = 115.99 USD",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Calculating your Profit and Loss in the Market"
+            }
+          ]
+        }
+      ],
+      "primary": {
+        "id": "forex",
+        "section_image": {
+          "url": "/Insights/academy-bg.png"
+        },
+        "section_title": [
+          {
+            "text": "3. What is Forex"
+          }
+        ]
+      }
+    },
+    {
+      "items": [
+        {
+          "rep_body": [
+            {
+              "text": "Technical and Fundamental Analysis are both tools used by traders to help determine a trading strategy. Both fundamental and technical analysis help traders to predict possible trends and future prices.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Technical Analysis;</strong> “The process of analysing a financial instrument's historical prices and other statistics generated by market activity, in an effort to determine probable future prices”",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Fundamental Analysis;</strong> “'The determination of price based on future earnings – it focuses predominantly on factors such as the overall state of the economy, interest rates, production, earnings, and management”",
+              "type": "paragraph"
+            },
+            {
+              "text": "Here it is put simply",
+              "type": "paragraph"
+            },
+            {
+              "text": "Technical analysis looks at past prices of an asset to predict future prices, and Fundamental Analysis believes that market movement is determined by macro and microeconomic factors including interest rates, war, political unrest, recession, global economic depression etc.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Essentially the fundamentalist studies the cause of market movement, while the technician studies the effect",
+              "type": "paragraph"
+            },
+            {
+              "text": "There are probably a million questions running through your mind;",
+              "type": "paragraph"
+            },
+            {
+              "text": "“Which one is better?”<br />“What’s the difference between the two?”<br />“Can I use them both?”<br />“How do I analyse?”<br />“What do I analyse?”",
+              "type": "paragraph"
+            },
+            {
+              "text": "So, let’s start from the very beginning...",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "The Technical vs. The Fundamental"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Fundamental analysis is a method of evaluating an asset; it attempts to measure its intrinsic value by examining the underlying forces that could affect the asset.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Fundamental Analysis includes;",
+              "type": "paragraph"
+            },
+            {
+              "text": "Geo-Political factors – such as interest rates and other government policies<br />Macroeconomic factors – such as the level of unemployment<br />Company or industry-specific factors – such as mergers or acquisitions",
+              "type": "paragraph"
+            },
+            {
+              "text": "Why is it useful?",
+              "type": "h5"
+            },
+            {
+              "text": "So why is Fundamental Analysis used so widely, and what does it help us achieve and understand?",
+              "type": "paragraph"
+            },
+            {
+              "text": "Through fundamental analysis, we are able to determine the overall health of an economy to give us a mid to long-term outlook as to the direction of the markets",
+              "type": "paragraph"
+            },
+            {
+              "text": "Fundamental Analysis helps us to measure an asset's intrinsic value. The idea behind the fundamental analysis is that each asset has a “correct” price which means we can determine if the current market price is overvalued or undervalued. Keeping in mind that the price will always revert back to what is “correct”, knowing whether the asset is under or overvalued gives us an indication as to whether to buy or sell.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Major Industrialized Nations Central Banks",
+              "type": "h5"
+            },
+            {
+              "text": "Below is a list of a few major industrialised nations, their central banks and the chairman or governor:",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>USA</strong> - The Federal Reserve [FOMC - Federal Open market Committee] - Chairman: Janet Yellen<br /><strong>Europe</strong> - European Central Bank [ECB] - Chairman: Mario Draghi<br /><strong>UK</strong> - Bank of England [BoE (MPC - Monetary Policy Committee)] - Governor: Mark Carney<br /><strong>Japan</strong> - Bank of Japan [BoJ] - Governor: Haruhiko Kuroda",
+              "type": "paragraph"
+            },
+            {
+              "text": "Central banks make decisions that affect the economy, and decisions that affect the economy are decisions that will affect your trading so if you ever see any of these guys on TV listen closely to what they say because odds are, it’s something pretty important.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "The Basics of the Fundamentals"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Every time the chairman of the FOMC, Janet Yellen, gives a speech everybody is playing the guessing game trying to figure out what’s going to happen with the interest rates.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Interest rate can be defined as;",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>'The cost of borrowing money expressed as a % of loan value'</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Understanding Interest rates are important when talking about factors such as the money supply or inflation because central banks use the manipulation of interest rates to control the money supply and combat inflation.",
+              "type": "paragraph"
+            },
+            {
+              "text": "You might be wondering why this is important to you, well; changes in interest rate cause changes in the economy and changes in the economy affect your trading.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Example</strong>: Increasing the interest rates<br />This effectively makes borrowing money less easy and as a result, the amount that people spend goes down.The decrease in expenditure means that the demand for many goods goes down, and as a result, their price will also decrease.The central bank will often increase interest rates when they fear the economy is “inflamed” – they make borrowing less easy to reduce expenditure and cool the economy down in order to avoid inflation.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Example</strong>: Decreasing the interest rates<br />This effectively allows us to borrow money more easily and as a result, the amount that people spend goes up.The increased expenditure means that there is also an increase in the demand for many goods, and as the demand for these goods increases so too will their prices.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The central bank will lower interest rates when they feel as though the economy is facing a potential recession, interest rates will be reduced to encourage spending and promote the growth of the economy.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Interest Rates"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "The main role of any central bank is to control a country’s money supply.",
+              "type": "paragraph"
+            },
+            {
+              "text": "By decreasing borrowing costs, central banks are effectively increasing the money supply.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>The money supply is a measure of the entire amount of bills, notes, coins, loans, credit and other liquid instruments in circulation within a country’s economy.</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Money supply is measured by M0, M1, M2 and M3, with M0 being the narrowest measure of money (cash and liquid assets), and M3 being the broadest.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The money supply is an important factor to keep an eye on, especially if you want to trade FX.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Increased money supply demonstrates early signs of inflation – if the supply of money exceeds the supply of goods prices are likely to rise – hello inflation.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Back in the day the government used to set targets for the growth rate of the money supply and would often manipulate interest rates to force the supply to fall in line with their suggested brackets. In fact, many stipulate that the over manipulation of interest rates back in the 80s [a period when the US government believed the money supply was growing proportionately out of control] was actually responsible for the economic recession of that time.",
+              "type": "paragraph"
+            },
+            {
+              "text": "It seems they learnt their lesson; governments don’t force the monetary growth to fall within their target brackets anymore. Governments nowadays just “play it by ear” waiting for the right moment to do the right thing in order to maintain stability, keep inflation in check, and promote sustainable growth.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Money Supply"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<strong>What is inflation?</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "We’ve spoken about inflation a lot in this module, and in case you haven’t got it yet; put simply inflation is 'Rising prices'. It can also be described as the sustained increase in the prices of goods and services.",
+              "type": "paragraph"
+            },
+            {
+              "text": "What does inflation do?",
+              "type": "h5"
+            },
+            {
+              "text": "Inflation causes what we call an erosion of the purchasing power of your money.<br />I.e. your money is worthless, you can buy less with your buck [or pound or euro] and it's all because of inflation.",
+              "type": "paragraph"
+            },
+            {
+              "text": "What causes inflation?",
+              "type": "h5"
+            },
+            {
+              "text": "There are two main causes of Inflation:<br /><em>Demand-Pull Inflation</em>; this form of inflation occurs when aggregate demand outweighs aggregate supply. When there is more demand than there is supply, prices increase = inflation.<br /><em>Cost-Push Inflation</em>; this form of inflation occurs as a result of an increase in say the prices of wages and or of raw materials.These increased costs cause supply to decrease and consequently, the amount of demand will outweigh supply.Again, where there is more demand than there is supply, prices increase = inflation.",
+              "type": "paragraph"
+            },
+            {
+              "text": ">What are the different types of inflation?",
+              "type": "h5"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "<strong>Hyper-Inflation</strong>&nbsp;- Extremely rapid or out of control rising inflation",
+                "<strong>Deflation</strong>&nbsp;- Falling prices - The opposite of Inflation",
+                "<strong>Stagflation</strong>&nbsp;- Sluggish economic growth accompanied by rising inflation",
+                "<strong>Disinflation</strong>&nbsp;- Slowing of the Inflation rate"
+              ]
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Inflation"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Every given period of time, each country around the world will have what is called an economic release. A data release is the periodic publication of economic data and or news of a qualitative and quantitative nature.",
+              "type": "paragraph"
+            },
+            {
+              "text": "These data or news releases help paint a picture of the overall health of a company or country’s economy. A stronger outlook for a company or country’s economy should be reflected by a higher company stock price or stronger domestic currency.",
+              "type": "paragraph"
+            },
+            {
+              "text": "This data/news can have both a short and long-term impact on prices and traders will look to benefit from any movement created by these economic data releases. So investors will make investment decisions based on their interpretation of the economic data which has been released.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Key Points of Economic Data</strong></p><ul><li>The key to trading data is to look at the outcome of the data/news release in relation to the&nbsp;<strong>expected forecast.</strong></li><li>The larger the&nbsp;<strong>difference between the actual figure and the forecast figure</strong>, the greater the likely hood of a larger change in prices.</li><li>The strength of importance of the data will also be a factor in determining the strength of price moves.</li></ul><p>",
+              "type": "paragraph"
+            },
+            {
+              "text": "An example of an economic data release is as follows;",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>U.S. Non-Farm Payrolls – [Released monthly] Measures the number of jobs created or lost each month excluding the agricultural sector.</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>For the month of July, we can see that...</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "The&nbsp;<strong>forecasted</strong>&nbsp;figure is&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;= -65k<br />The&nbsp;<strong>prior</strong>&nbsp;figure is&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; = -125k<br />The&nbsp;<strong>actual</strong>&nbsp;figure is&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; = -131k<br />And finally, the&nbsp;<strong>revised</strong>&nbsp;figure is&nbsp; &nbsp; &nbsp; =&nbsp;<strong>-221k</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "We can see here that the actual figure is more than two times the forecasted figure – and as we mentioned before the bigger the difference the more likely the fluctuation.",
+              "type": "paragraph"
+            },
+            {
+              "text": "In this case, higher than expected unemployment rates is bad news, so there was an initial sell-off on the Dollar.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Economic Release"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Now that we’ve spoken about fundamental analysis, what it means and what it consists of, let’s take a closer look at technical analysis.",
+              "type": "paragraph"
+            },
+            {
+              "text": "What is technical analysis?",
+              "type": "h5"
+            },
+            {
+              "text": "Unlike fundamental analysis, which is concerned with an asset's intrinsic value and what its price should be, technical analysis focuses more on pattern recognition.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Technical analysis is a subjective art based on using past price movements to predict future outcomes. Put simply it helps investors to predict what will happen in the future by looking at what has happened in the past.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Why is technical analysis useful?",
+              "type": "h5"
+            },
+            {
+              "text": "It’s a common misconception that all there is too technical analysis is lots of charts. There are plenty of skills involved in technical analysis which if applied, and applied correctly, are able to increase the probability of a winning trade by predicting the likely price action.",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Support &amp; Resistance Levels + Pivot Points",
+                "Trend Lines &amp; Channels + Breakout Points",
+                "Chart Patterns",
+                "Trade Entry &amp; Exit points",
+                "Strategic Stop Loss points"
+              ]
+            },
+            {
+              "text": "Technical analysis can be looked at as another way of reducing your risk.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "What is Technical Analysis?"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<p>Support and resistance is a concept used in the technical analysis that suggests that the market price of an asset will tend to fall and rise at certain predetermined levels.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Support</h5>",
+              "type": "h5"
+            },
+            {
+              "text": "<p>The support level is the level at which the price tends to find support as It is falling; it is more likely to “bounce” off this point rather than break through it. In the event that a price does in fact break through its support, it will often continue to fall until a new support level is identified.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Resistance</h5>",
+              "type": "h5"
+            },
+            {
+              "text": "<p>Resistance is the opposite of support – the resistance level is the level at which the price tends to find resistance as it is going up, and again, it is more likely that the price will “bounce” off this level rather than break through it.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>In the event that a price does break through its resistance level, it will often continue to rise until it finds another resistance level.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>The diagram above gives an example of support and resistance levels.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>The “zigzag” pattern that we see here has an upwards trend and shows us how new levels of support and resistance are determined as the market moves.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>When the market moves up and then pulls back again the highest point before the fall was being identified as the price resistance level.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>Similarly, as the market then moves up again, the lowest point reached before the increase began is the support level.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>The reverse of this is true for a downward trend",
+              "type": "paragraph"
+            },
+            {
+              "text": "How do I find support and resistance?</h5>",
+              "type": "h5"
+            },
+            {
+              "text": "<p>Now that you have a general idea of what support and resistance levels are it's time to learn how to identify them.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>Unfortunately, it’s not as easy as A, B, C - support and resistance levels aren’t exact numbers that can be worked out using a formula or rule. A support or resistance level may appear to have broken but soon after we see that the market was just testing it and the support and resistance levels remain in place.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>The fact that support and resistance levels are often depicted as lines, when they are not, in fact, exact figures is sometimes misleading – so it’s often simpler to think of support and resistance as zones as opposed to definitive levels.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The two types of support and resistance</h5>",
+              "type": "h5"
+            },
+            {
+              "text": "<p>There are essentially two types of support and resistance – major and minor.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<p>A price can move up, for example, breaking the minor resistance in order to test the major resistance and as we can see below often a price move against the trend will be stopped by the minor resistance or support, and reverse.</p><p>The more often a price tests the levels of support and resistance without actually breaking through them, the stronger the support and resistance zones are seen to be.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Support and Resistance"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<h5><strong>Trendlines</strong></h5>",
+              "type": "h5"
+            },
+            {
+              "text": "“The trend is your friend” is a quote used often by traders and the theory behind it is simple; it’s perceived as easy to make money trading in the same direction as the trend.",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "An uptrend line (successive higher highs and higher lows) is depicted as a line drawn along the bottom of easily identifiable support areas.",
+                "In a downtrend (successive lower highs and lower lows), the trend line is drawn along the top of easily identifiable resistance areas."
+              ]
+            },
+            {
+              "text": "<h5><strong>Channels</strong></h5>",
+              "type": "h5"
+            },
+            {
+              "text": "Channels can be seen as adding a dimension to the trend line theory we referred to earlier",
+              "type": "paragraph"
+            },
+            {
+              "text": "A channel is created simply by drawing a parallel line at the same angle of the uptrend or downtrend to create a channel.",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "To create an uptrend channel, draw a parallel line at the same angle as an uptrend line and then move that line to the position where it touches the most recent high",
+                "To create a downtrend channel, draw a parallel line at the same angle as the downtrend line and then move that line to a position where it touches the most recent low."
+              ]
+            },
+            {
+              "text": "[This should be done at the same time you created the trend line]",
+              "type": "paragraph"
+            },
+            {
+              "text": "When prices hit the bottom trend line this may be used as a buying area",
+              "type": "paragraph"
+            },
+            {
+              "text": "When prices hit the upper trend line this may be used as a selling area",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Trendlines and Channels"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "There are essentially two groups into which technical indicators fall – leading and lagging indicators.",
+              "type": "paragraph",
+              "spans": []
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Leading indicators will change in advance of expected economic trends; they are often used to predict future movements but not always necessarily accurate.",
+                "Lagging indicators are used to summaries past movements as opposed to predicting future; it changes after the economy has already begun to follow a particular pattern or trend."
+              ]
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Indicators"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<strong>Lagging Indicators</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "Moving Averages",
+              "type": "h5"
+            },
+            {
+              "text": "A moving average is a type of technical indicator that traders use in order to calculate the average price of a security over a given time.",
+              "type": "paragraph"
+            },
+            {
+              "text": "There are two different types of moving averages; simple moving average [SMA] and an exponential moving average [EMA]",
+              "type": "paragraph"
+            },
+            {
+              "text": "Simple Moving Averages (SMA)",
+              "type": "h5"
+            },
+            {
+              "text": "A simple moving average is calculated by adding up the last “X” period’s closing prices and then dividing that number by X.",
+              "type": "paragraph"
+            },
+            {
+              "text": "If you plotted a 10 period simple moving average on a 1-hour chart, you would add up the closing prices for the last 10 hours, and then divide that number by 10. There you have a simple moving average.",
+              "type": "paragraph"
+            },
+            {
+              "text": "A simple moving average shows us the overall sentiment of the market at a point in time. It helps to show market direction by smoothing out market noise (price fluctuations) over time and can also be used to identify support and resistance as well as generating buy/sell signals.",
+              "type": "paragraph"
+            },
+            {
+              "text": "We can see here that the longer the SMA period is the more it lags behind the current price; i.e. the higher the number period you use the slower it is to react to a current price movement.",
+              "type": "paragraph"
+            },
+            {
+              "text": "One problem that traders often experience with SMAs is that they are very susceptible to price spikes.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Exponential Moving Averages (EMAs)",
+              "type": "h4"
+            },
+            {
+              "text": "EMAs place more weight on the most recent periods and react faster to recent prices than SMA. The shorter the EMA period the higher the weight that the current price will carry in the MA curve – the opposite is also true.",
+              "type": "paragraph"
+            },
+            {
+              "text": "SMAs or EMAs",
+              "type": "h5"
+            },
+            {
+              "text": "Now that you know the difference between simple and exponential moving averages you’re probably asking yourself when you would use them and more importantly, which one is better.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The answer is – either; it may sound cliché but, like most methods of analysis, it really depends on your trading style.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Let’s go through the pros and cons of both SMAs and EMAs to help you work out which falls in line better with your trading strategy.",
+              "type": "paragraph"
+            },
+            {
+              "text": "EMAs respond faster to price movements and help you catch recent trends faster and more accurately than simple moving averages.",
+              "type": "paragraph"
+            },
+            {
+              "text": "BUT",
+              "type": "paragraph"
+            },
+            {
+              "text": "EMAs react SO quickly to price movements that often a price spike can be misinterpreted as the beginning stages of a trend.",
+              "type": "paragraph"
+            },
+            {
+              "text": "SMAs are better when you are looking at a more long-term and general movement of the market. It is best applied to trends over longer periods of time and avoids the misleading price spikes encountered when using EMAs. BUT Although beneficial when taking a long-term view, the slow reaction experienced when using SMAs causes a price lag which can make short-term movements harder to take advantage of.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Now that we have compared the two, it’s really up to you to decide which you would like to use. Take into consideration whether you are looking to gauge a long-term trend, or looking to take advantage of a short-term movement.",
+              "type": "paragraph"
+            },
+            {
+              "text": "If you’re ever in doubt which to use, there’s no harm in using both; EMA to get a general idea of the overall trend, and SMA to take advantage of short-term movements.",
+              "type": "paragraph"
+            },
+            {
+              "text": "How to use moving averages",
+              "type": "h5"
+            },
+            {
+              "text": "Moving averages are used to facilitate lots of trading strategies such as;",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Identifying trends and reversals",
+                "Measuring the strength of market’s momentum",
+                "Recognizing support and resistance levels",
+                "Spotting potential entry and exit points"
+              ]
+            },
+            {
+              "text": "<strong>Identifying trends</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "As mentioned before, moving averages are lagging indicators; they do not predict new trends, but confirm trends once they have started.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Moving averages are often used to identify trends as displayed in the graph above. When the price of the product is higher than that of the moving average then the price can be said to be in an uptrend. For example, many traders will only consider going long when the price is trading above a moving average.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The opposite is also true; in instances where there is a downward slope with the graph displaying prices lower than the moving average traders will use this to confirm a downtrend.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Identifying momentum with Moving Averages",
+              "type": "h4"
+            },
+            {
+              "text": "The strength and direction of a market's momentum can also be assessed by the use of moving averages.",
+              "type": "paragraph"
+            },
+            {
+              "text": "On the graph below three moving averages have been applied;",
+              "type": "paragraph"
+            },
+            {
+              "text": "Blue - EMA50 [short term]",
+              "type": "paragraph"
+            },
+            {
+              "text": "Pink - EMA100 [medium term]",
+              "type": "paragraph"
+            },
+            {
+              "text": "Orange - EMA200 [long term]",
+              "type": "paragraph"
+            },
+            {
+              "text": "The three moving averages used here have varying time frames in an attempt to represent short-term, medium-term and long-term price movements.",
+              "type": "paragraph"
+            },
+            {
+              "text": "In this graph, an upward momentum can be seen in instances where the shorter-term averages are located above longer-term averages.",
+              "type": "paragraph"
+            },
+            {
+              "text": "When the shorter-term averages are located below the longer-term averages, the momentum is in the downward direction.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Finding Support and Resistance with Moving Averages",
+              "type": "h5"
+            },
+            {
+              "text": "The falling price of a market can stop and reverse direction at the same level as an important average. This means that moving averages can often be used to identify support and resistance levels on a chart.",
+              "type": "paragraph"
+            },
+            {
+              "text": "An example can be seen in the graph below when the 200-day moving average can be seen to have provided a support level.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Moving averages that are based on longer time periods will give you a stronger and reliable view of a support level than shorter time frames.",
+              "type": "paragraph"
+            },
+            {
+              "text": "In cases where the price falls below an important moving average, it can then act as a resistance level which traders often use as a sign to take profits or to close out any existing long positions.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Traders also use these averages as entry points to go short because the price often bounces off the resistance and continues its move lower.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Finding crossovers with Moving Averages",
+              "type": "h5"
+            },
+            {
+              "text": "<em>Moving Averages can be used to generate buy and sell signals by identifying when an uptrend or downtrend is starting</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "As we discussed previously moving averages can be used to define up and down trends. Moving averages can also, therefore, be used as a signal to buy or sell.",
+              "type": "paragraph"
+            },
+            {
+              "text": "A cross above a moving average can be a signal to go long or close out a short position.",
+              "type": "paragraph"
+            },
+            {
+              "text": "A cross below a moving average can be a signal to go short or close out a long position.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The most common type of crossover is when the price moves from one side of a moving average and closes on the other – this can be seen in the graph below.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Blue - EMA20 [short term]",
+              "type": "paragraph"
+            },
+            {
+              "text": "Pink - EMA100 [long term]",
+              "type": "paragraph"
+            },
+            {
+              "text": "When a short-term average crosses through a long-term average it can mean momentum is shifting in one direction and that a strong move is approaching.",
+              "type": "paragraph"
+            },
+            {
+              "text": "A buy signal is when the short-term average crosses above the long-term average.",
+              "type": "paragraph"
+            },
+            {
+              "text": "A sell signal is when a short-term average crosses below a long-term average",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Lagging Indicators"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "As mentioned before leading indicators will change in advance of expected economic trends; they are often used to predict future movements but not always necessarily accurate.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Now that we have discussed moving averages, an example of a lagging indicator, let us move on to the Relative Strength Index which is a type of leading indicator.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Relative Strength Index (RSI)",
+              "type": "h5"
+            },
+            {
+              "text": "The Relative Strength Index [RSI] determines the speed and change of price movements; it allows traders to measure the buying or selling momentum of a product. RSI oscillates between 0 and 100 and generally, a market is thought to be overbought once the RSI approaches 70. This is a good indication that the asset may be getting overvalued and is a good candidate for a pullback.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Conversely, in instances where the RSI approaches 30, it is an indication the market may be oversold and therefore the asset is likely to become undervalued.",
+              "type": "paragraph"
+            },
+            {
+              "text": "What does Overbought mean?",
+              "type": "h5"
+            },
+            {
+              "text": "In technical analysis, overbought is a situation in which the price of a market has risen to such a degree - usually on high volume - that an oscillator, for example, an RSI, has reached its upper bound.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Put more simply it is when the demand for a product pushes the price of a market up to unjustifiable levels.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Generally, when a product is overbought it is an indication that the market is becoming overvalued and may experience a pullback.",
+              "type": "paragraph"
+            },
+            {
+              "text": "What does Oversold mean?",
+              "type": "h5"
+            },
+            {
+              "text": "Oversold is simply the opposite to overbought.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Oversold is a condition in which the price of a market has declined too steeply and too fast in relation to underlying fundamental factors. This condition is usually a result of market overreaction or panic selling.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Overselling is generally interpreted as a sign that the price of the asset is becoming undervalued and may represent a buying opportunity for investors.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Hopefully, it is now more clear to you what it means to say an asset is overbought or oversold, but please remember that determining the degree in which an asset is overbought or oversold is very subjective and can differ between traders.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Stochastic Oscillator",
+              "type": "h5"
+            },
+            {
+              "text": "Stochastic Oscillator is another example of a leading indicator; it is a momentum indicator that measures the speed of change of price or the impulse of the price. It does this by comparing an asset’s closing price against its price range over a given time period.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Similar to RSI Stochastic Oscillators also have levels that indicate potential trends or points of entry or exit",
+              "type": "paragraph"
+            },
+            {
+              "text": "Traders will often look to sell when the Stochastic Oscillator line rises above 80m predicting that it will inevitably then fall back below. Traders will also look to buy when the level falls below 20 predicting that it will increase above this level.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Another way of utilizing stochastic oscillators is to watch timing trades. The graph below gives an example of this;",
+              "type": "paragraph"
+            },
+            {
+              "text": "%K = Black\n%D = Red\n%K = (Current Close - Lowest Low)/ (Highest High - Lowest Low) * 100\n%D = 3-day SMA of %K",
+              "type": "paragraph"
+            },
+            {
+              "text": "The %K is called the faster moving of the two lines and compares the latest closing price to the recent trading range. %D is a signal line calculated by smoothing out %K; It is a 3-day simple moving average of %K which is plotted alongside %K to act as a signal or trigger line.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Traders will look to sell when the %K (Fast) line shifts below the %D (Slow) line and will look to buy when the %K line shifts over the %D line.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The theory behind this indicator is that in an upward-trending market, prices tend to close near their high, and during a downward-trending market, prices tend to close near their low. Transaction signals occur when the %K crosses through a three-period moving average called the \"%D\".",
+              "type": "paragraph"
+            },
+            {
+              "text": "The sensitivity of the oscillator can be adjusted by changing the time period for the %D or %K lines.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Leading Indicators"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Bollinger band is an analytical tool used by traders to identify a market’s volatility and looks at the levels of current prices relative to previous trades.",
+              "type": "paragraph"
+            },
+            {
+              "text": "We can see from the above graph that in an instance where there is little volatility the band's contract and as the market becomes increasingly volatile the bands expand.",
+              "type": "paragraph"
+            },
+            {
+              "text": "",
+              "type": "paragraph"
+            },
+            {
+              "text": "It may be simpler to look at Bollinger bands as a form of support and resistance.",
+              "type": "paragraph"
+            },
+            {
+              "text": "",
+              "type": "paragraph"
+            },
+            {
+              "text": "Often what is seen with Bollinger bands is that as the price deviates from the band it often tends to return back to a middle ground; this is what is known as the Bollinger Bounce.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Often the bands can be seen to “squeeze” together with such as in the graph below:",
+              "type": "paragraph"
+            },
+            {
+              "text": "Many traders see a band squeeze as an indication that there is a pending breakout in the market. If the graph is seen to move towards the upper band then an upwards trend is usually expected. The opposite is true when the candlestick is seen to be approaching the lower bound.",
+              "type": "paragraph"
+            },
+            {
+              "text": "An example of a “breakout can be seen below”:",
+              "type": "paragraph"
+            },
+            {
+              "text": "It is not an often occurrence to see a Bollinger squeeze; when looking at a 15-minute candlestick chart it will be experienced only a couple of times a week.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Bollinger Bands"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Fibonacci sequence is used widely in many different industries in the world which is why it may sound the most familiar to you out of all the technical analysis tools we have covered so far.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Leonard Fibonacci was an Italian mathematician (1200 AD) who discovered a simple sequence of numbers (Fibonacci numbers) that are used today in what is called Fibonacci retracement as a popular technical analysis tool.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Fibonacci Numbers are as follows; 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 and so on.",
+              "type": "paragraph"
+            },
+            {
+              "text": "More important than the sequence itself is the mathematical relationship between the numbers. It is the quotient of any two adjacent numbers in the sequence that is what’s important to us; each term in this sequence is the sum of the two preceding terms.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Fibonacci retracement works by taking two extreme points on a chart and dividing the vertical distance between the two points by what is known as the Fibonacci ratios. These ratios are 23.6%, 38.2%, 50%, 61.8% and 100% and the quotient of adjacent numbers in the sequence. Once these calculations have been done and the point defined they are noted on the graph using horizontal lines. These lines are interpreted by many traders as levels of support and resistance and are also used to help identify strategic places for transactions to be placed, and target prices or stop losses to be selected.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Fibonacci Sequence"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Technical analysis, like we said before, is not just about charts. It does, however, rely heavily on them and often uses chart patterns to assist in making trading decisions.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The underlying theory is that traders often expect chart patterns to repeat, and this prediction is what presents them with various trading opportunities.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The most common chart patterns are:",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Symmetrical Triangles",
+                "Ascending Triangles",
+                "Descending Triangles",
+                "Double Top",
+                "Double Bottom",
+                "Head and Shoulders",
+                "Reverse Head and Shoulders"
+              ]
+            },
+            {
+              "text": "<strong>Chart patterns - Triangles</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "Triangles represent continuation patterns and there are three main types;",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Symmetrical Triangles -</strong>&nbsp;Neutral pattern signaling breakout to either side, though usually a continuation pattern",
+              "type": "paragraph"
+            },
+            {
+              "text": "So how do you spot a systematic triangle pattern?",
+              "type": "paragraph"
+            },
+            {
+              "text": "Symmetrical triangles have distinct pattern signs and these can be seen in the image below",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Upper trend line downwards sloping",
+                "Lower trend line upward sloping",
+                "Both trend lines converging together",
+                "Breakout to upside or downside being confirmation of trend in that direction"
+              ]
+            },
+            {
+              "text": "The slope of the price’s highs and the slope of the price’s lows converge together to a point where it looks like a triangle.",
+              "type": "paragraph"
+            },
+            {
+              "text": "In the below example of a systematic triangle, the market is making lower highs and higher lows. This type of price activity is called consolidation.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Traders who use symmetrical triangles are often looking for a breakout; i.e. when the pattern reaches a stage where the price moves decisively in one direction or the other. Much like we explained in the Bollinger “squeeze” a breakout often occurs after a consolidation as seen below; traders wait for the price to either move above the top trend line or below the bottom trend line.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Ascending Triangles -</strong>&nbsp;Bullish continuation pattern",
+              "type": "paragraph"
+            },
+            {
+              "text": "Ascending triangles also have pattern traits with which you can identify it.",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Upper trend line horizontal/flat",
+                "Lower trend line upward sloping",
+                "Both trend lines converging together",
+                "Breakout to the upside through upper resistance"
+              ]
+            },
+            {
+              "text": "Ascending triangles are experienced in instances where there is a resistance level coupled with a slope of higher lows as seen below;",
+              "type": "paragraph"
+            },
+            {
+              "text": "Again traders will often wait to see if the price finally breaks the resistance level, at which point the price could breakout decisively to the upside as seen below",
+              "type": "paragraph"
+            },
+            {
+              "text": "The alternative occurs when the resistance level proves too strong for an upward break through and the price move reverses downwards.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Descending Triangles –</strong>&nbsp;Bearish continuation pattern",
+              "type": "paragraph"
+            },
+            {
+              "text": "Finally, there are descending triangles; Descending triangles are essentially the opposite of ascending triangles.",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Upper trend line downwards sloping",
+                "Lower trend line horizontal/flat",
+                "Both trend lines converging together",
+                "Breakout to the downside through lower support"
+              ]
+            },
+            {
+              "text": "Above we can see a descending series of highs, which forms the upper line. The lower line is a support level in which the price cannot seem to move below.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Unlike with ascending triangles where traders are waiting for an uptrend breakthrough traders witnessing a descending triangle are expecting a bearish market and are waiting to see if the price eventually makes a breakout to the downside through the support level.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The alternative scenario will occur when the support level proves too strong for a downward break; the price will then be seen to “bounce” off of the support level and generally begin in an upward movement.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Double Tops – Reversal Pattern",
+              "type": "h5"
+            },
+            {
+              "text": "A double top is a&nbsp;<strong>bearish reversal pattern</strong>&nbsp;that is formed after there is an extended move up.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The “tops”, as seen above, are peaks which are formed when the price hits a resistance level that appears it is unable to break.",
+              "type": "paragraph"
+            },
+            {
+              "text": "We can see in the diagram above that having bounced off the support level slightly the price then returns to re-test the support again. If the price is unable to break through the support level for the second time and is seen to bounce off of that level again, a DOUBLE top chart pattern has been formed.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Referring back to the diagram above again we can see that the 2nd “top” was unable to break the high of the 1st. Traders often interpret this as a strong sign that a reversal is going to occur as this movement implies that the buying pressure is lessening.",
+              "type": "paragraph"
+            },
+            {
+              "text": "When using double tops as a form of analysis traders will often look to go short below the level which is referred to as the “neckline”. When the price level falls below the neckline traders will expect the reversal of an upward trend.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Double Bottom – Reversal Pattern",
+              "type": "h5"
+            },
+            {
+              "text": "A double bottom is the opposite of a double top. It is a&nbsp;<strong>bullish trend reversal</strong>&nbsp;formation, meaning that unlike with double tops traders are now looking for the price to reverse upwards after it has been coming down.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Head and Shoulders",
+              "type": "h5"
+            },
+            {
+              "text": "Head and shoulders is another form of a reversal pattern which has two main types;",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Head and shoulders – Pattern formation that indicates a reversal in an uptrend [bearish]</li>",
+                "Inverse Head and Shoulders – Pattern formation signaling a reverse in a downtrend [bullish]</li>"
+              ]
+            },
+            {
+              "text": "<strong>Head and Shoulders</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Head and Shoulders are formed by a peak, known as the “shoulder” which is then followed by another higher peak, the “head”. Following on from this high peak [head] another shoulder is seen depicting a lower peak.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Finally, we can see that there is a neckline which is drawn by connecting the lowest points of the two troughs. Although in this case, the neckline is a straight line it can be either upwards or downwards slope.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Much the same as the double bottom and top formations traders using head and shoulders will also look to sell once the price falls just below the neckline as it is thought to imply an impending downward trend.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Reverse Head and Shoulders</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "A reverse head and shoulders are pretty self-explanatory; it’s a head and shoulders formation, in reverse.",
+              "type": "paragraph"
+            },
+            {
+              "text": "An inverse head and shoulders formation is a bullish reversal pattern and so traders will look to buy when the price increases above the neckline as they will be expecting an upward trend breakthrough.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Japanese Candlestick Formations",
+              "type": "h5"
+            },
+            {
+              "text": "<strong>Basic candlestick patterns - Spinning Tops</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "A spinning top is one of the most commonly seen candlestick patterns. This type of pattern is often regarded as neutral and indicates indecision between buyers and sellers and the future movements of an asset.",
+              "type": "paragraph"
+            },
+            {
+              "text": "We can see above that the body of the spinning top is small despite there possibly being a large amount of price fluctuation during the day. It is also either green or red in color, indicating an upward or downward sentiment.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Traders use the presence of a spinning top to predict whether there is an impending up or downward trend. For example, if after a long uptrend a spinning top form this generally means that buyers have begun to lose interest and it is indicative of an impending downtrend. The opposite is also true.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Basic candlestick patterns – Marubozu</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Marubozu pattern at first glance looks very similar to the spinning top candlestick formation described above.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The main differences between the two are that themarubozu are larger in size and unlike spinning tops do not have shadows. Again the two colors, green and red, indicate whether the market is bullish or bearish.",
+              "type": "paragraph"
+            },
+            {
+              "text": "We can see for example in a bullish market that the open price = low price and that the high price = close price. The greenmarubozu pattern is often seen as the first part of a bullish continuation or a bullish reversal pattern and so many traders will buy into a market in which they see a bullish marubozu.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The opposite here is the bearishmarubozu which is seen in red. In this case, the low price = close price and open price = high price. A bearish marubozu implies an impending bearish reversal or a bearish continuation and so many traders use the red marubozu as an indication to sell into the market.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Basic candlestick patterns – Doji</strong><br /> Doji candlesticks are said to be “neutral” as they do not indicate a definitive upward or downward trend and so indicate indecision amongst traders.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Doji candlesticks are in a way similar to spinning top candlesticks in that they have very small bodies, in the case of Doji the body is simply a bar as seen below. Also similar to spinning tops, Doji candlestick patterns can be seen to display long shadows.",
+              "type": "paragraph"
+            },
+            {
+              "text": "There are four main types of Doji candlesticks;",
+              "type": "paragraph"
+            },
+            {
+              "text": "First, let us look at the long-legged Doji – here we can see that opening and closing prices were essentially equal. This long-legged Doji implies that there is almost equilibrium between supply and demand and that there may be a turning point in the direction of the prices approaching.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Next, there is the dragonfly Doji – similar to the long-legged Doji the dragonfly Doji also forms when an assets opening and closing prices are equal. The long bottom shadow, however, means that this equilibrium took place at the high of the day. Again it implies that the direction of the trend is nearing a major breakthrough with the longer lower shadow implying the possible reversal of a bearish trend.",
+              "type": "paragraph"
+            },
+            {
+              "text": "A gravestone Doji is essentially the opposite of the dragonfly Doji explained above. It forms when the opening and closing prices are equal and occur at the end of the day. The long upper shadow implies that the days buying pressure was countered by sellers and that a bullish uptrend is about to be reversed.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Finally, a four price Doji is a candlestick formation where the day’s high, low, open and close price were all equal. This is the most neutral of all the Doji candlestick formations and does not occur often. It is seen mostly in times where there is a very low volume of trading such as after hours and is often disregarded by traders as being a result of bad data.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Although Doji Candlesticks are important, it is their combination with preceding patterns which traders look most at. For example, if a Doji candlestick appears after a series of candlesticks with long green bodies it is an indication that buying pressure is weakening. Conversely, if a Doji candlestick is seen after a series of red candlesticks this is an indication that selling pressure is weakened.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Basic candlestick patterns – Hammer and Hanging man</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "The hammer and hanging man look very similar with short bodies and long lower tails, but they have very different indications.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The hammer, which can be seen above on the left in green, is a bullish reversal pattern that forms during a downtrend. When prices are falling hammers signal that the support level has been approached and prices may well begin to rise again. Traders often take a hammerman as in indication of an impending price rise, but it is always safer to wait a while and confirm a bullish trend before buying.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The hanging man, which can be seen above in red, is the opposite of the hammer man. It is a bearish reversal pattern that often is seen to mark a top or strong resistance. When price rises the formation of a hanging man is often taken by traders as an indication that selling pressure is larger than upward buying pressure.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Basic Candlestick Patterns: Inverted Hammer &amp; Shooting Star</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "The inverted hammer occurs when a falling price indicates the possibility of a reversal. Its long upper shadow as seen below showing us that buyers are attempting to counter the downward pressure and were able to close the session near its open as opposed allowing the price to be pushed down further.",
+              "type": "paragraph"
+            },
+            {
+              "text": "The shooting star is a bearish reversal pattern that looks identical to the inverted hammer but occurs when prices have been rising.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Its shape indicates that the price opened at its low, rallied, but pulled back to the bottom. Conversely, to the inverted hammer, the shooting star shows us that sellers countered the upward pressure of buyers and were able to keep the day’s close almost equal to its open and avoid any further upward pressure.",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Chart Patterns"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "We’re finally done analyzing; and now that you know the basics of both technical and fundamental analysis it’s up to you to put your newly learned skills to use. It depends on your trading style, your objectives, your time frame and many other factors. Don’t put yourself in a box and stick to one style, there’s value in diversity.You can use any or all of these different methods as each complements the other. Many investors use technical analysis and graphing to decide on strategic exit and entry points, but use fundamental analysis to decide which asset to trade on. There are limitless combinations, and limitless opportunity – good luck with your trading!",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Conclusion"
+            }
+          ]
+        }
+      ],
+      "primary": {
+        "id": "analysis",
+        "section_title": [
+          {
+            "text": "4. Analysis"
+          }
+        ]
+      }
+    },
+    {
+      "items": [
+        {
+          "rep_body": [
+            {
+              "text": "The risk in any situation is&nbsp;<strong>Uncertainty</strong><br /><em>'The chance of an outcome being different than expected'</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "So now that we know what risk is, what exactly is the risk in terms of finance?<br /><em>'The chance of an investment's actual return being different than expected'&nbsp;</em>It’s often said that trading the financial markets is effectively the trading of risk.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Example</strong>: ”By buying EUR/USD, I effectively have the opinion the Euro will strengthen against the US Dollar”<br />The risk is the possibility of the Euro weakening against the US Dollar – an adverse movement",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>In other words, financial risk is the possibility of losing part or all of your original investment</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Financial Risk"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "If trading the financial markets is effectively the trading of risk, then why would we “risk” the market goes against us?</p><p>Although risk makes us susceptible to adverse movements in the market, risk also presents the potential/opportunity to make huge amounts of money.</p><p><strong>Risk = opportunity</strong>&nbsp;<em>And</em>&nbsp;<strong>The higher the risk, the higher the potential opportunity</strong></p><h5>The Risk/Reward Trade-Off</h5><p>The higher the risk an investor takes on, the higher the potential returns should be in order to compensate the increased risk. This is known as The Risk/Reward Trade-Off</p><p><strong>Low Risk = Low Return<br />High Risk = High Return</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Why “Risk” It"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "If trading the financial markets is effectively the trading of risk, then why would we “risk” the market goes against us?</p><p>Although risk makes us susceptible to adverse movements in the market, risk also presents the potential/opportunity to make huge amounts of money.</p><p><strong>Risk = opportunity</strong><br /><em>And</em><br /><strong>The higher the risk, the higher the potential opportunity</strong></p><h5>The Risk/Reward Trade-Off</h5><p>The higher the risk an investor takes on, the higher the potential returns should be in order to compensate the increased risk. This is known as The Risk/Reward Trade-Off</p><p><strong>Low Risk = Low Return<br />High Risk = High Return</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "What Makes Trading such risky business"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<strong>Stop Loss Orders</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "<em>Stop Loss Orders are the single most important risk management tool and should always be employed when trading</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Types of Stops",
+              "type": "h5"
+            },
+            {
+              "text": "<strong>Breakeven Stops</strong>&nbsp;– executed at the point at which gains equal losses",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Time Stops</strong>&nbsp;– it relies on a certain period of time elapsing before the order is executed",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Trailing stops</strong>&nbsp;- set at a percentage level below the market price. It allows you to let profits run on and minimise your losses at the same time.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>Learn to love your losses, manage your losses, and learn from your losses, or one day you will have the mother of all losses that will wipe out your entire account</em>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Risk Management Tools"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<em>Low-risk investments will have lower return potential than high-risk investments.</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Low Risk = Potential Low Return<br />Medium Risk = Potential Medium Return<br />High Risk = Potential High Return</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Your trading style will often define how low or high risk your strategy is but even the greatest investment/trading strategies are of little help if you do not control risk",
+              "type": "paragraph"
+            },
+            {
+              "text": "How tough are you?",
+              "type": "h5"
+            },
+            {
+              "text": "<em>Your Risk Tolerance is the degree of uncertainty you can handle regarding a potential loss or decrease in your investment portfolio value</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Risk tolerance will be different for each person and how much you can handle generally depends on three things;",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "<strong>Income&nbsp;</strong>- Your personal income and personal situation e.g. A person on a low salary about to get married will be likely to have a low to moderate risk appetite and will, therefore, most probably have lower risk capital available than a single person on a median salary",
+                "<strong>Time Horizon</strong>&nbsp;- The amount of time you plan to keep your money invested. Longer time horizons are associated with less risk than shorter time horizons",
+                "<strong>Investment Objectives&nbsp;</strong>- The greater your financial goals, the greater the risk you will likely have to take on"
+              ]
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Risk Tolerance"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<strong>What is asset allocation?</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "Asset allocation is an investment strategy aimed to balance risk and reward. It shares out the portfolio's assets according to your investment goals, risk tolerance and time horizon.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Different asset allocations have different levels of risk, below is an example of the risk associated with a selection of asset allocations;",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Diversification</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "<em>'A risk management technique that aims to reduce risk through mixing up your portfolio with many different investments'</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Diversification is particularly helpful when trying to offset unsystematic risk, which is industry/company specific.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Diversification is based on the rationale that any bad performers should be offset by good performers thus smoothing out unsystematic risk.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>The lower the correlation between investments in your portfolio, the lower the risk<br /></em><strong><em></em>Example</strong>&nbsp;of Correlation;",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Gold and the US Dollar</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Gold is inversely correlated to the dollar means that the value of gold appreciates as the dollar weakens",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Gold and Crude Oil</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Rising crude oil prices tend to lead to a rise in the value of gold as gold is often bought as a hedge against inflation",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Controlling Your Leverage</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "<strong>Leverage Scale:&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - - -&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Risk Level</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Remember!</strong>&nbsp;Leverage can be tailored according to your risk appetite. If you are risk-averse, trade on higher margin requirements to reduce your leverage",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Be Careful!</strong>&nbsp;Learn to control your leverage, treat it as a credit card, be careful not to get carried away with money you don’t have just because it’s available!",
+              "type": "paragraph"
+            },
+            {
+              "text": "Technical Analysis",
+              "type": "h5"
+            },
+            {
+              "text": "<em>The technical analysis serves as an important aid in risk management</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "We can use it to:",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Identify &amp; Time Entry/Exit points",
+                "Identify Support &amp; Resistance",
+                "Strategic Stop Loss Orders",
+                "Identify Trends &amp; Chart Patterns",
+                "Create Risk Parameters - Technical Indicators"
+              ]
+            },
+            {
+              "text": "All the above will aid the reduction of risk and help improve your chances of making profits.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>For more information on Technical Analysis please see the ”Analysis” Module</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Mitigating the Risk"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<strong>1. Use Stop Losses</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "Using a stop loss – a present level at which an open trade is automatically closed – is standard good practice as this can limit your downside risk and also shows trading discipline which is paramount in developing a healthy trading account. However, when markets are incredibly volatile you could experience some slippage with the position not being able to be executed at the exact level specified. In volatile markets, there is often a “gap”, where a product moves substantially lower or higher than expected perhaps as much as 10-15%. With a normal stop loss, you will get the first available price which could cause a large loss and result in a loss greater than your initial deposit.",
+              "type": "paragraph"
+            },
+            {
+              "text": "2. Reduce Your Trade Size",
+              "type": "h5"
+            },
+            {
+              "text": "Margin is one of the biggest advantages of CFD trading and at RightFX Markets our 0.25% on FX, 0.50% on spot gold and major Indices and 3% on commodities are among the most competitive in the marketplace however with any margin trading you should always be aware of how much is required to keep your position in the market A general rule of thumb is that no single trading position should amount to risk exposure of more than 5% of your available capital. However, in volatile market conditions, this kind of leverage is dangerous as any loses will magnify by even more than normal. The best market practice would be to halve your normal trading size over volatile trading conditions.",
+              "type": "paragraph"
+            },
+            {
+              "text": "3: Limit Your Trades",
+              "type": "h5"
+            },
+            {
+              "text": "Volatile markets are associated with high volumes of trading, which may cause delays in execution. While online trading normally means you place a trade at a current bid and offer you see, some market maker may widen bid-offer spreads or even temporarily withdraw tradable prices. This means that execution can be delayed and prices to execute it may not be available. RightFX provides fixed spreads no matter what market conditions but in times of increased volatility it is sometimes better to limit trade execution.",
+              "type": "paragraph"
+            },
+            {
+              "text": "4: Stick to Your Strategy",
+              "type": "h5"
+            },
+            {
+              "text": "During volatile times, it easy to be shaken and diverted from your normal trading strategy but most experienced traders apply the same strategy to choosing investments as they normally do. While it’s tempting to react to the volatility, it’s incredibly difficult to predict moves in the short term, so you have to stick to your trading strategies and limit your risk exposure when times are volatile.",
+              "type": "paragraph"
+            },
+            {
+              "text": "What are the important bits?",
+              "type": "h5"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "We need Risk Management to control our losses",
+                "Always be sure to know your Risk Tolerance",
+                "Have a Risk Management strategy - Leverage/Volatility/Diversification/Asset Allocation",
+                "Incorporate a Stop Loss strategy as part of your Risk management strategy",
+                "Be disciplined in affecting your strategy"
+              ]
+            },
+            {
+              "text": "<strong>PLAN YOUR WORK AND WORK YOUR PLAN</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Golden Rules for Trading in a Volatille Market"
+            }
+          ]
+        }
+      ],
+      "primary": {
+        "id": "risk",
+        "section_image": {
+          "url": "/Insights/academy-bg.png"
+        },
+        "section_title": [
+          {
+            "text": "5. Risk"
+          }
+        ]
+      }
+    },
+    {
+      "items": [
+        {
+          "rep_body": [
+            {
+              "text": "When trading there are two emotions that are more common, and more dangerous, than all the rest;&nbsp;<strong>fear</strong>&nbsp;and&nbsp;<strong>greed.</strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Fear and greed can ruin even the best trading strategies",
+              "type": "paragraph"
+            },
+            {
+              "text": "One moment of fear or greed can lead to a moment of madness and months of hard-won profits going down the drain",
+              "type": "paragraph"
+            },
+            {
+              "text": "Uncontrolled emotions should not be an excuse for losses and losses should not be an excuse for uncontrolled emotions",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Remember!!</strong>&nbsp;Trading affects psychology as much as psychology affects trading",
+              "type": "paragraph"
+            },
+            {
+              "text": "Greed",
+              "type": "h5"
+            },
+            {
+              "text": "<strong><em>“You can’t feed on greed”</em></strong>",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Many people think that greed is thinking that the sole aim of trading is to make money.",
+                "This is NOT what greed is"
+              ]
+            },
+            {
+              "text": "<strong><em>Greed is trying to make money&nbsp;too quickly</em></strong>",
+              "type": "paragraph"
+            },
+            {
+              "text": "There are lots of ways to be greedy in trading;",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Trading in sizes that are too large",
+                "Trading too frequently",
+                "Having unrealistic expectations",
+                "Dreaming of the big hit trade, rather than steadily building your equity"
+              ]
+            },
+            {
+              "text": "<strong>Fear</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "Fear in trading has two faces;",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Fear of loss",
+                "Fear of missing out"
+              ]
+            },
+            {
+              "text": "The fear of loss compels traders to close profitable trades prematurely, meaning they miss out on potential profit<br />The fear of missing out compels traders to abandon their trading strategy so they do not miss a major price move<br />Fear is NOT good as it leads to overtrading and miss-timed entry and exit points<br />So",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>DON’T BE SCARED!!</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "The Emotions of Trading"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "<em>Risk management involves calculating how much risk you are prepared to tolerate in order to make a profit</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "For a more detailed look at Risk and Risk Management tools please refer back to the ”Risk” Module",
+              "type": "paragraph"
+            },
+            {
+              "text": "When trading it is important that traders realize the importance of Risk Management; it teaches you to pace yourself, to think clearly, and most of all, it helps keep your emotions under control.",
+              "type": "paragraph"
+            },
+            {
+              "text": "Here are a few things you should think about when trading",
+              "type": "paragraph"
+            },
+            {
+              "text": "Trade size - Start with small trades",
+              "type": "h5"
+            },
+            {
+              "text": "<em>When you take a hot bath, you don’t just jump in straight away; you test the water temperature with your toes first. Trading is no different. Never jump into the market with your entire position. Test the market first with a smaller trade before taking your full position</em>",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Trade sizes that are too large for your account can cause exaggerated price swings and play havoc with your account as well as your emotions. This can then lead to mistakes caused by fear or greed. Like we said before trading affects psychology as much as psychology affects trading",
+                "Do not forget that a trade can go wrong – if you are dreaming of a huge profit by taking a large trade size, remember this high-risk trade can also produce a loss as big as the profit you were dreaming of."
+              ]
+            },
+            {
+              "text": "",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>Risk/reward ratio</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "Aim for at least a 3-1 or at worst a 2-1 Profit/Loss ratio",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "For example, if you are aiming for 60 pips profit, your maximum loss should be around 30 pips. Or, if the maximum loss you are prepared to take is $1000, your profit target should be at least $2000",
+                "If your trading style is to get in and out of the market for a small profit each time then make sure your losses are also small."
+              ]
+            },
+            {
+              "text": "Planning your risk/reward ratio means that you can prepare yourself mentally for the loss that you might face and prevent emotional trades.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>One wrong emotional trade can produce a large enough loss to wipe out the profit of many profitable trades</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "P/L targets",
+              "type": "h5"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "You should have exit points in mind before you make a trade",
+                "You should daily have P/L targets"
+              ]
+            },
+            {
+              "text": "<em>Once you reach this target you should stop trading so as to avoid giving profits back to the market</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "P/L targets help to avoid fear and greed compelling you to overtrade and/or increase your trade size",
+              "type": "paragraph"
+            },
+            {
+              "text": "Market volatility",
+              "type": "h5"
+            },
+            {
+              "text": "Sometimes of the day are more volatile than others:",
+              "type": "paragraph"
+            },
+            {
+              "text": "Afternoon in London, which corresponds to morning in New York, is the most volatile time of day for most markets, with the largest price swings and profit potential and losses.",
+              "type": "paragraph"
+            },
+            {
+              "text": "During periods of extreme volatility,&nbsp;<em>it is usually best to stand aside if you are not an experienced trader.</em>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Managing Risk and Emotion"
+            }
+          ]
+        },
+        {
+          "rep_body": [
+            {
+              "text": "Here are some more trading tips that you may find useful",
+              "type": "paragraph"
+            },
+            {
+              "text": "Implement risk management",
+              "type": "h5"
+            },
+            {
+              "text": "Use stop losses and limits – these take the emotion out of closing a trade and reduce the risk of unnecessary losses as a result of attachment to a position.",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>Traders allow losses to grow as their emotional attachment makes them hope the price will reverse</em>",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "The hardest thing a trader has to do is manually close a losing trade; placing a stop loss order at the same time you make a trade will avoid having to do this.",
+                "Traders often complain when their stops hit then the price reverses; never cancel a stop loss order after you have placed it. You placed the stop when you were calm before you entered the trade; now you are stressed because the trade is moving against you"
+              ]
+            },
+            {
+              "text": "<em>Trust your original judgment!</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Treat trading as a business, not a hobby",
+              "type": "h5"
+            },
+            {
+              "text": "You wouldn’t invest $10,000 in a business enterprise on impulse – so don’t do it when trading!",
+              "type": "paragraph"
+            },
+            {
+              "text": "Make sure to make time for researching the markets when you are not trading",
+              "type": "paragraph"
+            },
+            {
+              "text": "<em>An informed trade is always a better option than an impulsive trade</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Patience",
+              "type": "h5"
+            },
+            {
+              "text": "Patience is a virtue in trading; it is different to not trade through fear",
+              "type": "paragraph"
+            },
+            {
+              "text": "Patience means...",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "...waiting for the price to hit your indicators before trading",
+                "...waiting hours if necessary for the correct time to enter the market. Trading profitably is what matters, not the number of trades per day",
+                "...not jumping in and trading just because you see the price moving or you are bored",
+                "...not trading on a tip. You will find wildly divergent opinions even among so-called experts. Do your own research before you trade"
+              ]
+            },
+            {
+              "text": "<em>Standing aside is a valid trading decision</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Overtrading",
+              "type": "h5"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Overtrading is a common mistake made by new traders as they try and catch every small price move",
+                "The price moves down so they sell, it moves up so they buy, in doing so they are always chasing the market and usually losing."
+              ]
+            },
+            {
+              "text": "<em>Learn to anticipate price moves, not just follow them</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Timeframes",
+              "type": "h5"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Short-term trading is highly intensive and requires lots of discipline and concentration so make sure you are ready for this level of intensity and can trade without distractions",
+                "Longer term trades do not have to be monitored constantly and are more appropriate for traders with other commitments"
+              ]
+            },
+            {
+              "text": "<strong>Coping with losing trades</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "<em>Learn to love your losses</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "This is a term heard often in the trading world, and if you don’t learn to embrace your losses, your trading career will probably be short-lived.",
+              "type": "paragraph"
+            },
+            {
+              "text": "So, what exactly does “learn to love your losses” mean?",
+              "type": "paragraph"
+            },
+            {
+              "text": "It means you should understand why you made a losing trade;",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Did you misread your indicators?",
+                "Did you fail to anticipate the release of an important piece of economic data?</li>"
+              ]
+            },
+            {
+              "text": "Some losing trades are not your fault; for example, an unpredictable event such as a terrorist attack could move the market, but...",
+              "type": "paragraph"
+            },
+            {
+              "text": "The majority of losing trades is because the trader made an impulsive decision",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "To lessen the psychological impact of a loss, redefine a loss from being a failure to being an opportunity to learn",
+                "Do not blame the markets for your losses, the markets don’t owe you anything - look at your strategy and adjust accordingly"
+              ]
+            },
+            {
+              "text": "<em>Trade based on what the market is doing rather than what you think it should be doing. Trends and market conditions can change; make sure your strategy changes with it.</em>",
+              "type": "paragraph"
+            },
+            {
+              "text": "Taking profit",
+              "type": "h5"
+            },
+            {
+              "text": "<em>Cut your losers and run your winners</em>",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Don’t take profits too early through fear. Fear causes the mind to question and react while the trade is still “safe” and in profit, no matter how small.",
+                "Conversely, don’t let a winning trade turn into a loser",
+                "Set yourself rules to follow; close a trade if the market retraces 20%from your profit target. This allows you to make sure that your emotions don't get out of hand when trading",
+                "Except in special circumstances, get in the habit of taking your profit “too soon”",
+                "Don't torment yourself if a trade continues not to move in your favor. A common mistake is to close a position that is in profit and keep one that shows a loss."
+              ]
+            },
+            {
+              "text": "<strong>Building your account equity</strong>",
+              "type": "h5"
+            },
+            {
+              "text": "<em>Don’t try to make your fortune in a single trade – you will never be satisfied if you have unrealistic expectations</em>",
+              "type": "paragraph"
+            },
+            {
+              "type": "list-item",
+              "items": [
+                "Aim to build your account steadily<br />5% per day is a great return",
+                "Remember you will have periods of equity drawdowns or sideways movement<br />If you have 3 losing days in a row, take a step back from trading for at least a day to collect yourself.Use this time to reassess your strategy and analyze the market"
+              ]
+            },
+            {
+              "text": "To summarise, don’t underestimate the power of your emotions...",
+              "type": "paragraph"
+            },
+            {
+              "text": "<strong>TAKE CONTROL OF YOUR TRADING, DON'T LET TRADING TAKE CONTROL OF YOU</strong>",
+              "type": "paragraph"
+            }
+          ],
+          "rep_title": [
+            {
+              "text": "Trading Tips"
+            }
+          ]
+        }
+      ],
+      "primary": {
+        "id": "psychology",
+        "section_title": [
+          {
+            "text": "6. Trading Psychology"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "locales": [
+    "en",
+    "ar",
+    "jpn",
+    "sor",
+    "rus",
+    "spa",
+    "far",
+    "chi"
+  ],
+  "defaultLocale": "en",
+  "pages": {
+    "*": [
+      "common",
+      "home",
+      "company-profile",
+      "career",
+      "legal-documents",
+      "contact-us",
+      "mt-4-5",
+      "deposit-withdrawal",
+      "accounts",
+      "markets",
+      "economic-calendars",
+      "trading-faq",
+      "rightfx-academy",
+      "glossary"
+    ]
+  }
+}

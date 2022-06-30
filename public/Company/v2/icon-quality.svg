@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 95 100" style="enable-background:new 0 0 95 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FF0000;}
+	.st2{filter:url(#Adobe_OpacityMaskFilter);}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st4{mask:url(#mask-2_00000098213161175495441000000006766769200151029904_);fill-rule:evenodd;clip-rule:evenodd;}
+	.st5{filter:url(#Adobe_OpacityMaskFilter_00000175309677997761625600000015495106858903978929_);}
+	.st6{mask:url(#mask-4_00000004504868236378525050000007877322152291974017_);fill-rule:evenodd;clip-rule:evenodd;}
+</style>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="Artboard-25" transform="translate(-457.000000, -267.000000)">
+		<g id="Group-11" transform="translate(445.000000, 255.000000)">
+			<rect id="Rectangle-738" y="0" class="st0" width="120" height="120"/>
+			<g id="Group-5" transform="translate(12.272727, 12.272727)">
+				<ellipse id="Oval-82" class="st1" cx="46.5" cy="80.9" rx="15.1" ry="15.3"/>
+				<g id="medal">
+					<g id="Group-3">
+						<g id="Clip-2">
+						</g>
+						<defs>
+							<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="0" y="0.2" width="93.9" height="99">
+								<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+							</filter>
+						</defs>
+						
+							<mask maskUnits="userSpaceOnUse" x="0" y="0.2" width="93.9" height="99" id="mask-2_00000098213161175495441000000006766769200151029904_">
+							<g class="st2">
+								<polygon id="path-1_00000057829148930582655250000014451027158288244389_" class="st3" points="0,0.2 0,99.1 93.9,99.1 
+									93.9,0.2 								"/>
+							</g>
+						</mask>
+						<path id="Fill-1" class="st4" d="M93.4,18.3L82.4,1.6c-0.6-0.9-1.6-1.4-2.6-1.4H14.1c-1.1,0-2.1,0.5-2.6,1.4L0.5,18.3
+							c-0.8,1.3-0.7,3,0.4,4.1l39.7,40.4c-7,2.6-12.1,9.5-12.1,17.6c0,10.3,8.3,18.8,18.4,18.8c10.2,0,18.4-8.4,18.4-18.8
+							c0-8.1-5-15-12.1-17.6L93,22.4C94,21.3,94.2,19.6,93.4,18.3L93.4,18.3z M10.8,23.3h12.9l18.7,19.1L36,49L10.8,23.3z
+							 M46.9,37.8L32.7,23.3h28.5L46.9,37.8z M70.1,23.3h12.9L46.9,60.1l-6.5-6.6L70.1,23.3z M15.8,6.6h62.3l6.7,10.3H9.1L15.8,6.6z
+							 M59,80.4c0,6.8-5.4,12.3-12.1,12.3c-6.7,0-12.1-5.5-12.1-12.3c0-6.8,5.4-12.3,12.1-12.3C53.6,68.1,59,73.6,59,80.4L59,80.4z"
+							/>
+					</g>
+				</g>
+				<g id="mark-as-favorite-star" transform="translate(42.564935, 74.659091)">
+					<g id="Clip-2_00000100354662440822407680000000645284012411823551_">
+					</g>
+					<defs>
+						
+							<filter id="Adobe_OpacityMaskFilter_00000115498972891625704380000010066653223135148727_" filterUnits="userSpaceOnUse" x="0" y="0.1" width="10.1" height="10.1">
+							<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+						</filter>
+					</defs>
+					
+						<mask maskUnits="userSpaceOnUse" x="0" y="0.1" width="10.1" height="10.1" id="mask-4_00000004504868236378525050000007877322152291974017_">
+						<g style="filter:url(#Adobe_OpacityMaskFilter_00000115498972891625704380000010066653223135148727_);">
+							<polygon id="path-3_00000175301011489068618480000008608171464691936674_" class="st3" points="5.1,0.1 0,0.1 0,10.2 
+								10.1,10.2 10.1,0.1 							"/>
+						</g>
+					</mask>
+					<polygon id="Fill-1_00000139991901924496514460000002079338735707346362_" class="st6" points="5,8.2 8.2,10.2 7.3,6.4 
+						10.1,3.9 6.5,3.6 5,0.1 3.6,3.6 0,3.9 2.7,6.4 1.9,10.2 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
